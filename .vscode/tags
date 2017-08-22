@@ -4,8 +4,28 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-0_introduction.py	../0_introduction.py	1;"	kind:file	line:1
-1_python_basics.py	../1_python_basics.py	1;"	kind:file	line:1
+00_introduction.py	../00_introduction.py	1;"	kind:file	line:1
+01_l3_your_first_program.py	../01_l3_your_first_program.py	1;"	kind:file	line:1
+01_python_basics.py	../01_python_basics.py	1;"	kind:file	line:1
+01_your_first_program.py	../01_your_first_program.py	1;"	kind:file	line:1
+02_break_your_name2.py	../02_break_your_name2.py	1;"	kind:file	line:1
+02_continue_swordfish.py	../02_continue_swordfish.py	1;"	kind:file	line:1
+02_exit_example.py	../02_exit_example.py	1;"	kind:file	line:1
+02_for_five_times.py	../02_for_five_times.py	1;"	kind:file	line:1
+02_if_elif_else_vampire.py	../02_if_elif_else_vampire.py	1;"	kind:file	line:1
+02_import_print_random.py	../02_import_print_random.py	1;"	kind:file	line:1
+02_truthy_and_falsy_values.py	../02_truthy_and_falsy_values.py	1;"	kind:file	line:1
+02_while_your_name.py	../02_while_your_name.py	1;"	kind:file	line:1
+03_exception_zero_divide.py	../03_exception_zero_divide.py	1;"	kind:file	line:1
+03_functions_hello_func.py	../03_functions_hello_func.py	1;"	kind:file	line:1
+03_functions_hello_func2.py	../03_functions_hello_func2.py	1;"	kind:file	line:1
+03_game_guess_the_number.py	../03_game_guess_the_number.py	1;"	kind:file	line:1
+03_local_global_same_name.py	../03_local_global_same_name.py	1;"	kind:file	line:1
+03_local_global_same_name_2.py	../03_local_global_same_name_2.py	1;"	kind:file	line:1
+03_local_global_same_name_3.py	../03_local_global_same_name_3.py	1;"	kind:file	line:1
+03_local_global_same_name_4.py	../03_local_global_same_name_4.py	1;"	kind:file	line:1
+03_practice_collatz.py	../03_practice_collatz.py	1;"	kind:file	line:1
+03_return_magic_8_ball.py	../03_return_magic_8_ball.py	1;"	kind:file	line:1
 A	../venv\Lib\re.py	/^    A = ASCII$/;"	kind:variable	line:150
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A(A):$/;"	kind:class	line:121
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A:$/;"	kind:class	line:116
@@ -12349,6 +12369,7 @@ afterDoctypePublicIdentifierState	../venv\Lib\site-packages\pip\_vendor\html5lib
 afterDoctypePublicKeywordState	../venv\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py	/^    def afterDoctypePublicKeywordState(self):$/;"	kind:member	line:1410
 afterDoctypeSystemIdentifierState	../venv\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py	/^    def afterDoctypeSystemIdentifierState(self):$/;"	kind:member	line:1660
 afterDoctypeSystemKeywordState	../venv\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py	/^    def afterDoctypeSystemKeywordState(self):$/;"	kind:member	line:1563
+age	../02_if_elif_else_vampire.py	/^age = 3000$/;"	kind:variable	line:2
 ala	../venv\Lib\site-packages\pylint\test\functional\not_in_loop.py	/^    def ala():$/;"	kind:function	line:6
 algorithms_available	../venv\Lib\hashlib.py	/^algorithms_available = set(__always_supported)$/;"	kind:variable	line:65
 algorithms_guaranteed	../venv\Lib\hashlib.py	/^algorithms_guaranteed = set(__always_supported)$/;"	kind:variable	line:64
@@ -12800,6 +12821,8 @@ backslashreplace_errors	../venv\Lib\codecs.py	/^    backslashreplace_errors = No
 backslashreplace_errors	../venv\Lib\codecs.py	/^    backslashreplace_errors = lookup_error("backslashreplace")$/;"	kind:variable	line:1086
 backup_dir	../venv\Lib\site-packages\pip\utils\__init__.py	/^def backup_dir(dir, ext='.bak'):$/;"	kind:function	line:132
 backup_dir	../venv\Lib\site-packages\pip\vcs\__init__.py	/^from pip.utils import (display_path, backup_dir, call_subprocess,$/;"	kind:namespace	line:13
+bacon	../03_local_global_same_name.py	/^def bacon():$/;"	kind:function	line:6
+bacon	../03_local_global_same_name_3.py	/^def bacon():$/;"	kind:function	line:14
 bad	../venv\Lib\site-packages\pylint\test\functional\consider_using_enumerate.py	/^def bad():$/;"	kind:function	line:5
 bad	../venv\Lib\site-packages\pylint\test\functional\nonlocal_and_global.py	/^def bad(): # [nonlocal-and-global]$/;"	kind:function	line:4
 bad_builtin.py	../venv\Lib\site-packages\pylint\extensions\bad_builtin.py	1;"	kind:file	line:1
@@ -15895,6 +15918,10 @@ egg_name	../venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py	/^    d
 egg_name	../venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py	/^    egg_name = None$/;"	kind:variable	line:1442
 egg_name	../venv\Lib\site-packages\pkg_resources\__init__.py	/^    def egg_name(self):$/;"	kind:member	line:2610
 egg_name	../venv\Lib\site-packages\pkg_resources\__init__.py	/^    egg_name = None$/;"	kind:variable	line:1446
+eggs	../03_local_global_same_name.py	/^eggs = 'global'$/;"	kind:variable	line:13
+eggs	../03_local_global_same_name_2.py	/^eggs = 'global'$/;"	kind:variable	line:14
+eggs	../03_local_global_same_name_3.py	/^eggs = 42  # this is the global$/;"	kind:variable	line:22
+eggs	../03_local_global_same_name_4.py	/^eggs = 'global'$/;"	kind:variable	line:10
 ei	../venv\Lib\site-packages\setuptools\command\install_scripts.py	/^        import setuptools.command.easy_install as ei$/;"	kind:namespace	line:17
 elapsed	../venv\Lib\site-packages\pip\_vendor\progress\__init__.py	/^    def elapsed(self):$/;"	kind:member	line:49
 elapsed_td	../venv\Lib\site-packages\pip\_vendor\progress\__init__.py	/^    def elapsed_td(self):$/;"	kind:member	line:53
@@ -17162,6 +17189,7 @@ formatargspec	../venv\Lib\site-packages\wrapt\decorators.py	/^from inspect impor
 formatdate	../venv\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py	/^from email.utils import formatdate, parsedate, parsedate_tz$/;"	kind:namespace	line:4
 formattingElements	../venv\Lib\site-packages\pip\_vendor\html5lib\constants.py	/^formattingElements = frozenset([$/;"	kind:variable	line:325
 formatwarning	../venv\Lib\warnings.py	/^def formatwarning(message, category, filename, lineno, line=None):$/;"	kind:function	line:15
+fortune	../03_return_magic_8_ball.py	/^fortune = getAnswer(r)$/;"	kind:variable	line:26
 forwarding_args	../venv\Lib\site-packages\pylint\test\functional\missing_kwoa_py3.py	/^def forwarding_args(*args, keyword):$/;"	kind:function	line:11
 forwarding_conversion	../venv\Lib\site-packages\pylint\test\functional\missing_kwoa_py3.py	/^def forwarding_conversion(*args, **kwargs):$/;"	kind:function	line:14
 forwarding_kwds	../venv\Lib\site-packages\pylint\test\functional\missing_kwoa_py3.py	/^def forwarding_kwds(pos, **kwds):$/;"	kind:function	line:7
@@ -17629,6 +17657,7 @@ get	../venv\Lib\site-packages\pylint\test\functional\no_self_use_py3.py	/^    de
 get	../venv\Lib\sre_parse.py	/^    def get(self):$/;"	kind:member	line:253
 get	../venv\Lib\weakref.py	/^    def get(self, key, default=None):$/;"	kind:member	line:179
 get	../venv\Lib\weakref.py	/^    def get(self, key, default=None):$/;"	kind:member	line:399
+getAnswer	../03_return_magic_8_ball.py	/^def getAnswer(answerNumber):$/;"	kind:function	line:4
 getAttribute	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def getAttribute(self):$/;"	kind:member	line:792
 getAttributes	../venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py	/^        def getAttributes(self):$/;"	kind:member	line:88
 getCurrentByte	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def getCurrentByte(self):$/;"	kind:member	line:635
@@ -18539,6 +18568,7 @@ groups	../venv\Lib\sre_parse.py	/^    def groups(self):$/;"	kind:member	line:82
 grp	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py	/^    import grp, pwd$/;"	kind:namespace	line:54
 grp	../venv\Lib\tarfile.py	/^    import grp, pwd$/;"	kind:namespace	line:53
 gt	../venv\Lib\operator.py	/^def gt(a, b):$/;"	kind:function	line:47
+guess	../03_game_guess_the_number.py	/^    guess = int(input())$/;"	kind:variable	line:9
 guess_content_type	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py	/^def guess_content_type(filename, default='application\/octet-stream'):$/;"	kind:function	line:8
 guess_filename	../venv\Lib\site-packages\pip\_vendor\requests\utils.py	/^def guess_filename(obj):$/;"	kind:function	line:146
 guess_json_utf	../venv\Lib\site-packages\pip\_vendor\requests\utils.py	/^def guess_json_utf(data):$/;"	kind:function	line:697
@@ -18549,6 +18579,7 @@ gzopen	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py	/^    
 gzopen	../venv\Lib\tarfile.py	/^    def gzopen(cls, name, mode="r", fileobj=None, compresslevel=9, **kwargs):$/;"	kind:member	line:1615
 h	../venv\Lib\site-packages\pylint\test\functional\singleton_comparison.py	/^h = None is x$/;"	kind:variable	line:10
 had_bug	../venv\Lib\site-packages\pylint\test\functional\nested_blocks_issue1088.py	/^def had_bug(num):$/;"	kind:function	line:2
+ham	../03_local_global_same_name_3.py	/^def ham():$/;"	kind:function	line:18
 handle	../venv\Lib\site-packages\pip\_vendor\distlib\__init__.py	/^        def handle(self, record): pass$/;"	kind:member	line:18
 handleComment	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def handleComment(self):$/;"	kind:member	line:719
 handleMeta	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def handleMeta(self):$/;"	kind:member	line:723
@@ -18695,6 +18726,8 @@ heapq	../venv\Lib\site-packages\pylint\checkers\typecheck.py	/^import heapq$/;"	
 heapq.py	../venv\Lib\heapq.py	1;"	kind:file	line:1
 heapreplace	../venv\Lib\heapq.py	/^def heapreplace(heap, item):$/;"	kind:function	line:145
 hebrewprober.py	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py	1;"	kind:file	line:1
+hello	../03_functions_hello_func.py	/^def hello():$/;"	kind:function	line:13
+hello	../03_functions_hello_func2.py	/^def hello(name):$/;"	kind:function	line:4
 hello.py	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\package\hello.py	1;"	kind:file	line:1
 hello.py	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\package\hello.py	1;"	kind:file	line:1
 helloworld	../venv\Lib\site-packages\pylint\test\functional\no_classmethod_decorator.py	/^def helloworld():$/;"	kind:function	line:27
@@ -18924,6 +18957,7 @@ implements	../venv\Lib\site-packages\pylint\interfaces.py	/^def implements(obj, 
 implements	../venv\Lib\site-packages\pylint\utils.py	/^from pylint.interfaces import IRawChecker, ITokenChecker, UNDEFINED, implements$/;"	kind:namespace	line:34
 implicit_metaclass	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^    def implicit_metaclass(self):$/;"	kind:member	line:1564
 impliedTagToken	../venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py	/^def impliedTagToken(name, type="EndTag", attributes=None,$/;"	kind:function	line:2723
+import	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
 import	../venv\Lib\site-packages\astroid\manager.py	/^from astroid.interpreter._import import spec$/;"	kind:namespace	line:21
 import	../venv\Lib\site-packages\astroid\modutils.py	/^from .interpreter._import import spec$/;"	kind:namespace	line:35
 import	../venv\Lib\site-packages\astroid\modutils.py	/^from .interpreter._import import util$/;"	kind:namespace	line:36
@@ -20779,6 +20813,7 @@ matches	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^    def matches(sel
 matches	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    def matches(self, testString, parseAll=True):$/;"	kind:member	line:2172
 matches_requirement	../venv\Lib\site-packages\pip\_vendor\distlib\database.py	/^    def matches_requirement(self, req):$/;"	kind:member	line:399
 matches_requirement	../venv\Lib\site-packages\wheel\util.py	/^def matches_requirement(req, wheels):$/;"	kind:function	line:148
+math	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
 mathmlTextIntegrationPointElements	../venv\Lib\site-packages\pip\_vendor\html5lib\constants.py	/^mathmlTextIntegrationPointElements = frozenset([$/;"	kind:variable	line:432
 matmul	../venv\Lib\operator.py	/^def matmul(a, b):$/;"	kind:function	line:108
 maxDiff	../venv\Lib\site-packages\pylint\test\test_functional.py	/^    maxDiff = None$/;"	kind:variable	line:223
@@ -21242,11 +21277,15 @@ mustMatchTheseTokens	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.p
 mute_string	../venv\Lib\site-packages\pep8.py	/^def mute_string(text):$/;"	kind:function	line:1229
 mute_string	../venv\Lib\site-packages\pycodestyle.py	/^def mute_string(text):$/;"	kind:function	line:1379
 mutual_startswith	../venv\Lib\site-packages\autopep8.py	/^def mutual_startswith(a, b):$/;"	kind:function	line:2988
+myAge	../01_l3_your_first_program.py	/^myAge = input()$/;"	kind:variable	line:10
+myAge	../01_your_first_program.py	/^myAge = input()$/;"	kind:variable	line:10
 myClass	../venv\Lib\site-packages\pylint\test\functional\wrong_import_order2.py	/^from .my_package import myClass$/;"	kind:namespace	line:16
 myConnection	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\appl\myConnection.py	/^    myConnection = MyConnection(' ')$/;"	kind:variable	line:11
 myConnection	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\appl\myConnection.py	/^    myConnection = MyConnection(' ')$/;"	kind:variable	line:10
 myConnection.py	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\appl\myConnection.py	1;"	kind:file	line:1
 myConnection.py	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\appl\myConnection.py	1;"	kind:file	line:1
+myName	../01_l3_your_first_program.py	/^myName = input()$/;"	kind:variable	line:5
+myName	../01_your_first_program.py	/^myName = input()$/;"	kind:variable	line:5
 my_function	../venv\Lib\site-packages\pylint\test\extensions\data\elif.py	/^def my_function():$/;"	kind:function	line:3
 my_function	../venv\Lib\site-packages\pylint\test\functional\too_many_nested_blocks.py	/^def my_function():$/;"	kind:function	line:5
 my_package	../venv\Lib\site-packages\pylint\test\functional\wrong_import_order2.py	/^from . import my_package$/;"	kind:namespace	line:15
@@ -21261,6 +21300,13 @@ myos	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^
 myos	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\module2.py	/^import os as myos$/;"	kind:namespace	line:114
 n	../venv\Lib\site-packages\pylint\test\regrtest_data\meta.py	/^n = 42$/;"	kind:variable	line:3
 na	../venv\Lib\site-packages\pylint\test\regrtest_data\numarray_inf.py	/^import numarray as na$/;"	kind:namespace	line:3
+name	../02_break_your_name2.py	/^    name = input()$/;"	kind:variable	line:3
+name	../02_continue_swordfish.py	/^    name = input()$/;"	kind:variable	line:3
+name	../02_if_elif_else_vampire.py	/^name = 'Dracula'$/;"	kind:variable	line:1
+name	../02_truthy_and_falsy_values.py	/^    name = input()$/;"	kind:variable	line:9
+name	../02_truthy_and_falsy_values.py	/^name = ''$/;"	kind:variable	line:6
+name	../02_while_your_name.py	/^    name = input()$/;"	kind:variable	line:4
+name	../02_while_your_name.py	/^name = ''$/;"	kind:variable	line:1
 name	../venv\Lib\enum.py	/^    def name(self):$/;"	kind:member	line:593
 name	../venv\Lib\hmac.py	/^    def name(self):$/;"	kind:member	line:87
 name	../venv\Lib\os.py	/^    name = 'nt'$/;"	kind:variable	line:69
@@ -21747,6 +21793,7 @@ nullDebugAction	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^def nullDeb
 nullDebugAction	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^def nullDebugAction(*args):$/;"	kind:function	line:989
 null_ns_handler	../venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py	/^def null_ns_handler(importer, path_item, packageName, module):$/;"	kind:function	line:2190
 null_ns_handler	../venv\Lib\site-packages\pkg_resources\__init__.py	/^def null_ns_handler(importer, path_item, packageName, module):$/;"	kind:function	line:2204
+numOfGuests	../02_truthy_and_falsy_values.py	/^numOfGuests = int(input())$/;"	kind:variable	line:12
 num_addresses	../venv\Lib\site-packages\pip\_vendor\ipaddress.py	/^    def num_addresses(self):$/;"	kind:member	line:846
 num_re	../venv\Lib\site-packages\pip\_vendor\distlib\version.py	/^    num_re = re.compile(r'^\\d+(\\.\\d+)*$')$/;"	kind:variable	line:83
 numarray	../venv\Lib\site-packages\pylint\test\regrtest_data\numarray_inf.py	/^import numarray.random_array as nar$/;"	kind:namespace	line:4
@@ -22031,6 +22078,7 @@ origin_req_host	../venv\Lib\site-packages\pip\_vendor\requests\cookies.py	/^    
 originalTextFor	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^def originalTextFor(expr, asString=True):$/;"	kind:function	line:4640
 originalTextFor	../venv\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py	/^from pkg_resources.extern.pyparsing import stringStart, stringEnd, originalTextFor, ParseException$/;"	kind:namespace	line:9
 originalTextFor	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^def originalTextFor(expr, asString=True):$/;"	kind:function	line:4640
+os	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
 os	../venv\Lib\distutils\__init__.py	/^import os$/;"	kind:namespace	line:1
 os	../venv\Lib\fnmatch.py	/^import os$/;"	kind:namespace	line:12
 os	../venv\Lib\genericpath.py	/^import os$/;"	kind:namespace	line:6
@@ -22553,7 +22601,8 @@ partialmethod	../venv\Lib\site-packages\astroid\tests\unittest_inference.py	/^de
 partition	../venv\Lib\collections\__init__.py	/^    def partition(self, sep):$/;"	kind:member	line:1210
 passing_keyword_only_with_modifications	../venv\Lib\site-packages\pylint\test\functional\useless_super_delegation_py3.py	/^    def passing_keyword_only_with_modifications(self, first, *, second):$/;"	kind:member	line:9
 passing_only_a_handful	../venv\Lib\site-packages\pylint\test\functional\useless_super_delegation.py	/^    def passing_only_a_handful(self, first, second, third, fourth):$/;"	kind:member	line:65
-passwordFile	../0_introduction.py	/^passwordFile = open('SecretPasswordFile.txt')$/;"	kind:variable	line:1
+password	../02_continue_swordfish.py	/^    password = input()$/;"	kind:variable	line:7
+passwordFile	../00_introduction.py	/^passwordFile = open('SecretPasswordFile.txt')$/;"	kind:variable	line:1
 patch	../venv\Lib\site-packages\pip\_vendor\requests\__init__.py	/^from .api import request, get, head, post, patch, put, delete, options$/;"	kind:namespace	line:67
 patch	../venv\Lib\site-packages\pip\_vendor\requests\api.py	/^def patch(url, data=None, **kwargs):$/;"	kind:function	line:126
 patch	../venv\Lib\site-packages\pip\_vendor\requests\sessions.py	/^    def patch(self, url, data=None, **kwargs):$/;"	kind:member	line:535
@@ -23550,6 +23599,7 @@ quote_plus	../venv\Lib\site-packages\pip\_vendor\requests\compat.py	/^    from u
 quote_plus	../venv\Lib\site-packages\pip\_vendor\requests\compat.py	/^    from urllib.parse import urlparse, urlunparse, urljoin, urlsplit, urlencode, quote, unquote, quote_plus, unquote_plus, urldefrag$/;"	kind:namespace	line:57
 quotedString	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^quotedString = Combine(Regex(r'"(?:[^"\\n\\r\\\\]|(?:"")|(?:\\\\(?:[^x]|x[0-9a-fA-F]+)))*')+'"'|$/;"	kind:variable	line:5107
 quotedString	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^quotedString = Combine(Regex(r'"(?:[^"\\n\\r\\\\]|(?:"")|(?:\\\\(?:[^x]|x[0-9a-fA-F]+)))*')+'"'|$/;"	kind:variable	line:5107
+r	../03_return_magic_8_ball.py	/^r = random.randint(1, 9)$/;"	kind:variable	line:25
 r	../venv\Lib\importlib\_bootstrap.py	/^                _verbose_message('import {!r} # {!r}', spec.name, spec.loader)$/;"	kind:namespace	line:313
 raise_for_status	../venv\Lib\site-packages\pip\_vendor\requests\models.py	/^    def raise_for_status(self):$/;"	kind:member	line:846
 raise_from	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    def raise_from(value, from_value):$/;"	kind:function	line:717
@@ -23565,6 +23615,9 @@ raising_self.py	../venv\Lib\site-packages\pylint\test\functional\raising_self.py
 randint	../venv\Lib\random.py	/^    def randint(self, a, b):$/;"	kind:member	line:216
 randint	../venv\Lib\random.py	/^randint = _inst.randint$/;"	kind:variable	line:747
 randint	../venv\Lib\site-packages\pylint\test\input\func_noerror_overloaded_operator.py	/^def randint(maximum):$/;"	kind:function	line:15
+random	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
+random	../03_game_guess_the_number.py	/^import random$/;"	kind:namespace	line:2
+random	../03_return_magic_8_ball.py	/^import random$/;"	kind:namespace	line:1
 random	../venv\Lib\random.py	/^    def random(self):$/;"	kind:member	line:671
 random	../venv\Lib\random.py	/^random = _inst.random$/;"	kind:variable	line:744
 random	../venv\Lib\site-packages\pip\_vendor\retrying.py	/^import random$/;"	kind:namespace	line:15
@@ -24288,6 +24341,7 @@ resources	../venv\Lib\site-packages\pip\_vendor\distlib\resources.py	/^    def r
 resources.py	../venv\Lib\site-packages\astroid\tests\resources.py	1;"	kind:file	line:1
 resources.py	../venv\Lib\site-packages\pip\_vendor\distlib\resources.py	1;"	kind:file	line:1
 resp_read	../venv\Lib\site-packages\pip\download.py	/^    def resp_read(chunk_size):$/;"	kind:function	line:533
+response	../02_exit_example.py	/^    response = input()$/;"	kind:variable	line:11
 response	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    response = _importer._get_module("moves.urllib_response")$/;"	kind:variable	line:476
 response	../venv\Lib\site-packages\pip\_vendor\six.py	/^    response = _importer._get_module("moves.urllib_response")$/;"	kind:variable	line:476
 response	../venv\Lib\site-packages\pkg_resources\_vendor\six.py	/^    response = _importer._get_module("moves.urllib_response")$/;"	kind:variable	line:476
@@ -24607,7 +24661,8 @@ search_function	../venv\Lib\encodings\__init__.py	/^def search_function(encoding
 search_packages_info	../venv\Lib\site-packages\pip\commands\show.py	/^def search_packages_info(query):$/;"	kind:function	line:47
 search_path	../venv\Lib\site-packages\pkg_resources\extern\__init__.py	/^    def search_path(self):$/;"	kind:member	line:16
 second_good_attribute_docstring	../venv\Lib\site-packages\pylint\test\functional\statement_without_effect.py	/^    second_good_attribute_docstring = 42$/;"	kind:variable	line:43
-secretPassword	../0_introduction.py	/^secretPassword = passwordFile.read()$/;"	kind:variable	line:2
+secretNumber	../03_game_guess_the_number.py	/^secretNumber = random.randint(1, 20)$/;"	kind:variable	line:3
+secretPassword	../00_introduction.py	/^secretPassword = passwordFile.read()$/;"	kind:variable	line:2
 section_prefix	../venv\Lib\site-packages\setuptools\config.py	/^    section_prefix = 'metadata'$/;"	kind:variable	line:381
 section_prefix	../venv\Lib\site-packages\setuptools\config.py	/^    section_prefix = 'options'$/;"	kind:variable	line:438
 section_prefix	../venv\Lib\site-packages\setuptools\config.py	/^    section_prefix = None$/;"	kind:variable	line:118
@@ -25241,6 +25296,11 @@ space_before_trailing_solidus	../venv\Lib\site-packages\pip\_vendor\html5lib\ser
 space_indentation	../venv\Lib\site-packages\pylint\extensions\_check_docs_utils.py	/^def space_indentation(s):$/;"	kind:function	line:25
 spacesAngleBrackets	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^spacesAngleBrackets = spaceCharactersBytes | frozenset([b">", b"<"])$/;"	kind:variable	line:26
 spaces_func	../venv\Lib\site-packages\pylint\test\functional\mixed_indentation.py	/^def spaces_func():$/;"	kind:function	line:4
+spam	../03_exception_zero_divide.py	/^def spam(divideBy):$/;"	kind:function	line:16
+spam	../03_local_global_same_name.py	/^def spam():$/;"	kind:function	line:1
+spam	../03_local_global_same_name_2.py	/^def spam():$/;"	kind:function	line:5
+spam	../03_local_global_same_name_3.py	/^def spam():$/;"	kind:function	line:9
+spam	../03_local_global_same_name_4.py	/^def spam():$/;"	kind:function	line:5
 spawn	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py	/^    from distutils.spawn import spawn$/;"	kind:namespace	line:442
 spawn	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^                from distutils.spawn import spawn$/;"	kind:namespace	line:568
 spawnl	../venv\Lib\os.py	/^    def spawnl(mode, file, *args):$/;"	kind:function	line:913
@@ -25780,6 +25840,8 @@ synchronized	../venv\Lib\site-packages\wrapt\importer.py	/^from .decorators impo
 syntax_error.py	../venv\Lib\site-packages\pylint\test\functional\syntax_error.py	1;"	kind:file	line:1
 syntax_error.py	../venv\Lib\site-packages\pylint\test\regrtest_data\syntax_error.py	1;"	kind:file	line:1
 syntax_error_jython.py	../venv\Lib\site-packages\pylint\test\functional\syntax_error_jython.py	1;"	kind:file	line:1
+sys	../02_exit_example.py	/^import sys$/;"	kind:namespace	line:7
+sys	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
 sys	../venv\Lib\_bootlocale.py	/^import sys$/;"	kind:namespace	line:7
 sys	../venv\Lib\_collections_abc.py	/^import sys$/;"	kind:namespace	line:10
 sys	../venv\Lib\base64.py	/^    import sys, getopt$/;"	kind:namespace	line:565
@@ -27975,7 +28037,7 @@ type_errors	../venv\Lib\site-packages\astroid\node_classes.py	/^    def type_err
 type_of_literals_positives	../venv\Lib\site-packages\pylint\test\functional\unidiomatic_typecheck.py	/^def type_of_literals_positives(a):$/;"	kind:function	line:70
 typecheck	../venv\Lib\site-packages\pylint\test\unittest_checker_typecheck.py	/^from pylint.checkers import typecheck$/;"	kind:namespace	line:15
 typecheck.py	../venv\Lib\site-packages\pylint\checkers\typecheck.py	1;"	kind:file	line:1
-typedPassword	../0_introduction.py	/^typedPassword = input('Enter your password: ')$/;"	kind:variable	line:5
+typedPassword	../00_introduction.py	/^typedPassword = input('Enter your password: ')$/;"	kind:variable	line:5
 types	../venv\Lib\copy.py	/^import types$/;"	kind:namespace	line:51
 types	../venv\Lib\imp.py	/^import types$/;"	kind:namespace	line:28
 types	../venv\Lib\importlib\__init__.py	/^import types$/;"	kind:namespace	line:57
