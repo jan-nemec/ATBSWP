@@ -26,6 +26,14 @@
 03_local_global_same_name_4.py	../03_local_global_same_name_4.py	1;"	kind:file	line:1
 03_practice_collatz.py	../03_practice_collatz.py	1;"	kind:file	line:1
 03_return_magic_8_ball.py	../03_return_magic_8_ball.py	1;"	kind:file	line:1
+04_in_list_my_pets.py	../04_in_list_my_pets.py	1;"	kind:file	line:1
+04_lists_all_my_cats1.py	../04_lists_all_my_cats1.py	1;"	kind:file	line:1
+04_lists_all_my_cats2.py	../04_lists_all_my_cats2.py	1;"	kind:file	line:1
+04_lists_magic_ball_8.py	../04_lists_magic_ball_8.py	1;"	kind:file	line:1
+04_passing_reference.py	../04_passing_reference.py	1;"	kind:file	line:1
+04_practice_char_picture_grid.py	../04_practice_char_picture_grid.py	1;"	kind:file	line:1
+04_practice_comma_code.py	../04_practice_comma_code.py	1;"	kind:file	line:1
+04_swap_values.py	../04_swap_values.py	1;"	kind:file	line:1
 A	../venv\Lib\re.py	/^    A = ASCII$/;"	kind:variable	line:150
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A(A):$/;"	kind:class	line:121
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A:$/;"	kind:class	line:116
@@ -13426,6 +13434,14 @@ care	../venv\Lib\importlib\util.py	/^        warnings.warn('The import system no
 care	../venv\Lib\importlib\util.py	/^    warnings.warn('The import system now takes care of this automatically.',$/;"	kind:namespace	line:186
 case	../venv\Lib\site-packages\pylint\test\functional\unused_variable.py	/^    import unittest.case  # [unused-variable]$/;"	kind:namespace	line:7
 casefold	../venv\Lib\collections\__init__.py	/^    def casefold(self):$/;"	kind:member	line:1165
+catName1	../04_lists_all_my_cats1.py	/^catName1 = input()$/;"	kind:variable	line:7
+catName2	../04_lists_all_my_cats1.py	/^catName2 = input()$/;"	kind:variable	line:9
+catName3	../04_lists_all_my_cats1.py	/^catName3 = input()$/;"	kind:variable	line:11
+catName4	../04_lists_all_my_cats1.py	/^catName4 = input()$/;"	kind:variable	line:13
+catName5	../04_lists_all_my_cats1.py	/^catName5 = input()$/;"	kind:variable	line:15
+catName6	../04_lists_all_my_cats1.py	/^catName6 = input()$/;"	kind:variable	line:17
+catNames	../04_lists_all_my_cats2.py	/^    catNames = catNames + [name]  # list concatenation$/;"	kind:variable	line:12
+catNames	../04_lists_all_my_cats2.py	/^catNames = []$/;"	kind:variable	line:5
 catch	../venv\Lib\site-packages\astroid\node_classes.py	/^    def catch(self, exceptions): # pylint: disable=redefined-outer-name$/;"	kind:member	line:1465
 catch_warnings	../venv\Lib\warnings.py	/^class catch_warnings(object):$/;"	kind:class	line:411
 catchme	../venv\Lib\site-packages\pylint\test\functional\access_member_before_definition.py	/^    def catchme(self, attr):$/;"	kind:member	line:25
@@ -14162,6 +14178,7 @@ col	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^def col (loc,
 col_offset	../venv\Lib\site-packages\astroid\node_classes.py	/^    col_offset = None$/;"	kind:variable	line:211
 collapse_addresses	../venv\Lib\site-packages\pip\_vendor\ipaddress.py	/^def collapse_addresses(addresses):$/;"	kind:function	line:424
 collapse_spaces	../venv\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py	/^def collapse_spaces(text):$/;"	kind:function	line:37
+collatz	../03_practice_collatz.py	/^def collatz(number):$/;"	kind:function	line:11
 collect_block_lines	../venv\Lib\site-packages\pylint\utils.py	/^    def collect_block_lines(self, msgs_store, module_node):$/;"	kind:member	line:527
 collect_string_fields	../venv\Lib\site-packages\pylint\checkers\strings.py	/^def collect_string_fields(format_string):$/;"	kind:function	line:137
 collections	../venv\Lib\locale.py	/^import collections$/;"	kind:namespace	line:17
@@ -14503,6 +14520,7 @@ convertToFloat	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^    convertT
 convertToFloat	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    convertToFloat = tokenMap(float)$/;"	kind:variable	line:5494
 convertToInteger	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^    convertToInteger = tokenMap(int)$/;"	kind:variable	line:5489
 convertToInteger	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    convertToInteger = tokenMap(int)$/;"	kind:variable	line:5489
+convertToString	../04_practice_comma_code.py	/^def convertToString(items):$/;"	kind:function	line:4
 convert_ansi	../venv\Lib\site-packages\colorama\ansitowin32.py	/^    def convert_ansi(self, paramstring, command):$/;"	kind:member	line:178
 convert_ansi	../venv\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py	/^    def convert_ansi(self, paramstring, command):$/;"	kind:member	line:178
 convert_f	../venv\Lib\site-packages\wheel\tool\__init__.py	/^    def convert_f(args):$/;"	kind:function	line:326
@@ -15922,6 +15940,7 @@ eggs	../03_local_global_same_name.py	/^eggs = 'global'$/;"	kind:variable	line:13
 eggs	../03_local_global_same_name_2.py	/^eggs = 'global'$/;"	kind:variable	line:14
 eggs	../03_local_global_same_name_3.py	/^eggs = 42  # this is the global$/;"	kind:variable	line:22
 eggs	../03_local_global_same_name_4.py	/^eggs = 'global'$/;"	kind:variable	line:10
+eggs	../04_passing_reference.py	/^def eggs(someParameter):$/;"	kind:function	line:9
 ei	../venv\Lib\site-packages\setuptools\command\install_scripts.py	/^        import setuptools.command.easy_install as ei$/;"	kind:namespace	line:17
 elapsed	../venv\Lib\site-packages\pip\_vendor\progress\__init__.py	/^    def elapsed(self):$/;"	kind:member	line:49
 elapsed_td	../venv\Lib\site-packages\pip\_vendor\progress\__init__.py	/^    def elapsed_td(self):$/;"	kind:member	line:53
@@ -18561,6 +18580,7 @@ got_enough_data	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\
 goto	../venv\Lib\site-packages\pip\_vendor\progress\__init__.py	/^    def goto(self, index):$/;"	kind:member	line:110
 graft	../venv\Lib\site-packages\setuptools\command\egg_info.py	/^    def graft(self, dir):$/;"	kind:member	line:431
 graph.py	../venv\Lib\site-packages\pylint\graph.py	1;"	kind:file	line:1
+grid	../04_practice_char_picture_grid.py	/^grid = [['.', '.', '.', '.', '.', '.'],$/;"	kind:variable	line:1
 group	../venv\Lib\tokenize.py	/^def group(*choices): return '(' + '|'.join(choices) + ')'$/;"	kind:function	line:112
 groupby	../venv\Lib\site-packages\pip\exceptions.py	/^from itertools import chain, groupby, repeat$/;"	kind:namespace	line:4
 grouped_slots	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^        def grouped_slots():$/;"	kind:function	line:1728
@@ -20899,6 +20919,7 @@ message	../venv\Lib\site-packages\pip\_vendor\progress\spinner.py	/^    message 
 message	../venv\Lib\site-packages\pip\utils\ui.py	/^    message = "%(percent)d%%"$/;"	kind:variable	line:178
 message_from_file	../venv\Lib\site-packages\pip\_vendor\distlib\metadata.py	/^from email import message_from_file$/;"	kind:namespace	line:13
 message_from_file	../venv\Lib\site-packages\pip\_vendor\distlib\wheel.py	/^from email import message_from_file$/;"	kind:namespace	line:13
+messages	../04_lists_magic_ball_8.py	/^messages = ['It is certain',$/;"	kind:variable	line:3
 messages	../venv\Lib\site-packages\pylint\utils.py	/^    def messages(self):$/;"	kind:member	line:647
 met	../venv\Lib\site-packages\pylint\test\input\func_noerror_base_init_vars.py	/^    def met(self):$/;"	kind:member	line:13
 met	../venv\Lib\site-packages\pylint\test\input\func_noerror_base_init_vars.py	/^    def met(self):$/;"	kind:member	line:26
@@ -21286,6 +21307,7 @@ myConnection.py	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\ap
 myConnection.py	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\appl\myConnection.py	1;"	kind:file	line:1
 myName	../01_l3_your_first_program.py	/^myName = input()$/;"	kind:variable	line:5
 myName	../01_your_first_program.py	/^myName = input()$/;"	kind:variable	line:5
+myPets	../04_in_list_my_pets.py	/^myPets = ['Zophie', 'Pooka', 'Fat-tail']$/;"	kind:variable	line:1
 my_function	../venv\Lib\site-packages\pylint\test\extensions\data\elif.py	/^def my_function():$/;"	kind:function	line:3
 my_function	../venv\Lib\site-packages\pylint\test\functional\too_many_nested_blocks.py	/^def my_function():$/;"	kind:function	line:5
 my_package	../venv\Lib\site-packages\pylint\test\functional\wrong_import_order2.py	/^from . import my_package$/;"	kind:namespace	line:15
@@ -21307,6 +21329,8 @@ name	../02_truthy_and_falsy_values.py	/^    name = input()$/;"	kind:variable	lin
 name	../02_truthy_and_falsy_values.py	/^name = ''$/;"	kind:variable	line:6
 name	../02_while_your_name.py	/^    name = input()$/;"	kind:variable	line:4
 name	../02_while_your_name.py	/^name = ''$/;"	kind:variable	line:1
+name	../04_in_list_my_pets.py	/^name = input()$/;"	kind:variable	line:3
+name	../04_lists_all_my_cats2.py	/^    name = input()$/;"	kind:variable	line:9
 name	../venv\Lib\enum.py	/^    def name(self):$/;"	kind:member	line:593
 name	../venv\Lib\hmac.py	/^    def name(self):$/;"	kind:member	line:87
 name	../venv\Lib\os.py	/^    name = 'nt'$/;"	kind:variable	line:69
@@ -23618,6 +23642,7 @@ randint	../venv\Lib\site-packages\pylint\test\input\func_noerror_overloaded_oper
 random	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
 random	../03_game_guess_the_number.py	/^import random$/;"	kind:namespace	line:2
 random	../03_return_magic_8_ball.py	/^import random$/;"	kind:namespace	line:1
+random	../04_lists_magic_ball_8.py	/^import random$/;"	kind:namespace	line:1
 random	../venv\Lib\random.py	/^    def random(self):$/;"	kind:member	line:671
 random	../venv\Lib\random.py	/^random = _inst.random$/;"	kind:variable	line:744
 random	../venv\Lib\site-packages\pip\_vendor\retrying.py	/^import random$/;"	kind:namespace	line:15
@@ -24351,6 +24376,7 @@ response.py	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util
 restOfLine	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^restOfLine = Regex(r".*").leaveWhitespace().setName("rest of line")$/;"	kind:variable	line:5332
 restOfLine	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^restOfLine = Regex(r".*").leaveWhitespace().setName("rest of line")$/;"	kind:variable	line:5332
 restore_path	../venv\Lib\site-packages\astroid\context.py	/^    def restore_path(self):$/;"	kind:member	line:48
+result	../04_practice_comma_code.py	/^result = convertToString(spam)$/;"	kind:variable	line:14
 resume	../venv\Lib\site-packages\setuptools\sandbox.py	/^    def resume(self):$/;"	kind:member	line:138
 retries	../venv\Lib\site-packages\pip\cmdoptions.py	/^retries = partial($/;"	kind:variable	line:147
 retry	../venv\Lib\site-packages\pip\_vendor\retrying.py	/^def retry(*dargs, **dkw):$/;"	kind:function	line:26
@@ -25301,6 +25327,8 @@ spam	../03_local_global_same_name.py	/^def spam():$/;"	kind:function	line:1
 spam	../03_local_global_same_name_2.py	/^def spam():$/;"	kind:function	line:5
 spam	../03_local_global_same_name_3.py	/^def spam():$/;"	kind:function	line:9
 spam	../03_local_global_same_name_4.py	/^def spam():$/;"	kind:function	line:5
+spam	../04_passing_reference.py	/^spam = [1, 2, 3]$/;"	kind:variable	line:13
+spam	../04_practice_comma_code.py	/^spam = ['apples', 'bannanas', 'tofu', 'cats']$/;"	kind:variable	line:1
 spawn	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py	/^    from distutils.spawn import spawn$/;"	kind:namespace	line:442
 spawn	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^                from distutils.spawn import spawn$/;"	kind:namespace	line:568
 spawnl	../venv\Lib\os.py	/^    def spawnl(mode, file, *args):$/;"	kind:function	line:913
@@ -28757,6 +28785,8 @@ validate	../venv\Lib\site-packages\pylint\test\functional\membership_protocol.py
 validate	../venv\Lib\site-packages\pylint\test\functional\membership_protocol.py	/^    def validate(self, value):$/;"	kind:member	line:77
 validate	../venv\Lib\site-packages\pylint\test\functional\membership_protocol.py	/^    def validate(self, value):$/;"	kind:member	line:87
 validate	../venv\Lib\site-packages\setuptools\dist.py	/^    def validate(self, dist):$/;"	kind:member	line:991
+value	../03_practice_collatz.py	/^    value = collatz(value)$/;"	kind:variable	line:32
+value	../03_practice_collatz.py	/^value = None$/;"	kind:variable	line:24
 value	../venv\Lib\enum.py	/^    def value(self):$/;"	kind:member	line:598
 value	../venv\Lib\enum.py	/^    value = _auto_null$/;"	kind:variable	line:55
 value	../venv\Lib\site-packages\astroid\node_classes.py	/^    value = None$/;"	kind:variable	line:1056
@@ -28775,6 +28805,8 @@ value	../venv\Lib\site-packages\astroid\node_classes.py	/^    value = None$/;"	k
 value	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^    value = None$/;"	kind:variable	line:533
 value	../venv\Lib\site-packages\pip\_vendor\distlib\util.py	/^    def value(self):$/;"	kind:member	line:542
 value	../venv\Lib\site-packages\pylint\test\input\func_no_dummy_redefined.py	/^value = 10$/;"	kind:variable	line:7
+value2	../03_practice_collatz.py	/^    value2 = collatz(value2)$/;"	kind:variable	line:38
+value2	../03_practice_collatz.py	/^value2 = int(input('Enter number2: '))$/;"	kind:variable	line:35
 value_converters	../venv\Lib\site-packages\pip\_vendor\distlib\compat.py	/^        value_converters = {$/;"	kind:variable	line:992
 value_converters	../venv\Lib\site-packages\pip\_vendor\distlib\util.py	/^    value_converters = dict(BaseConfigurator.value_converters)$/;"	kind:variable	line:1509
 value_converters	../venv\Lib\site-packages\pip\compat\dictconfig.py	/^    value_converters = {$/;"	kind:variable	line:155
