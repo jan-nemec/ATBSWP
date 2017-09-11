@@ -34,6 +34,7 @@
 04_practice_char_picture_grid.py	../04_practice_char_picture_grid.py	1;"	kind:file	line:1
 04_practice_comma_code.py	../04_practice_comma_code.py	1;"	kind:file	line:1
 04_swap_values.py	../04_swap_values.py	1;"	kind:file	line:1
+05_dictionaries_birthdays.py	../05_dictionaries_birthdays.py	1;"	kind:file	line:1
 A	../venv\Lib\re.py	/^    A = ASCII$/;"	kind:variable	line:150
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A(A):$/;"	kind:class	line:121
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A:$/;"	kind:class	line:116
@@ -12979,6 +12980,7 @@ bb	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^bb
 bb	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\module2.py	/^bb = ((1) | (two)) | (6)$/;"	kind:variable	line:76
 bbbb	../venv\Lib\site-packages\pylint\test\functional\abstract_method_py2.py	/^    def bbbb(self):$/;"	kind:member	line:13
 bbbb	../venv\Lib\site-packages\pylint\test\functional\abstract_method_py3.py	/^    def bbbb(self):$/;"	kind:member	line:13
+bday	../05_dictionaries_birthdays.py	/^        bday = input()$/;"	kind:variable	line:14
 bdist	../venv\Lib\site-packages\setuptools\command\__init__.py	/^from distutils.command.bdist import bdist$/;"	kind:namespace	line:8
 bdist_egg	../venv\Lib\site-packages\setuptools\command\bdist_egg.py	/^class bdist_egg(Command):$/;"	kind:class	line:56
 bdist_egg	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^from setuptools.command import bdist_egg, egg_info$/;"	kind:namespace	line:55
@@ -13044,6 +13046,7 @@ binascii	../venv\Lib\base64.py	/^import binascii$/;"	kind:namespace	line:11
 binascii	../venv\Lib\encodings\hex_codec.py	/^import binascii$/;"	kind:namespace	line:9
 binascii	../venv\Lib\encodings\uu_codec.py	/^import binascii$/;"	kind:namespace	line:11
 binascii	../venv\Lib\site-packages\pylint\test\functional\invalid_exceptions_caught.py	/^import socket, binascii, abc, six$/;"	kind:namespace	line:5
+birthdays	../05_dictionaries_birthdays.py	/^birthdays = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}$/;"	kind:variable	line:1
 bisect	../venv\Lib\bisect.py	/^bisect = bisect_right   # backward compatibility$/;"	kind:variable	line:45
 bisect	../venv\Lib\site-packages\pip\_vendor\distlib\resources.py	/^import bisect$/;"	kind:namespace	line:9
 bisect.py	../venv\Lib\bisect.py	1;"	kind:file	line:1
@@ -21331,6 +21334,7 @@ name	../02_while_your_name.py	/^    name = input()$/;"	kind:variable	line:4
 name	../02_while_your_name.py	/^name = ''$/;"	kind:variable	line:1
 name	../04_in_list_my_pets.py	/^name = input()$/;"	kind:variable	line:3
 name	../04_lists_all_my_cats2.py	/^    name = input()$/;"	kind:variable	line:9
+name	../05_dictionaries_birthdays.py	/^    name = input()$/;"	kind:variable	line:5
 name	../venv\Lib\enum.py	/^    def name(self):$/;"	kind:member	line:593
 name	../venv\Lib\hmac.py	/^    def name(self):$/;"	kind:member	line:87
 name	../venv\Lib\os.py	/^    name = 'nt'$/;"	kind:variable	line:69
@@ -21831,6 +21835,7 @@ numbers	../venv\Lib\site-packages\pylint\test\functional\unsubscriptable_value.p
 numbers	../venv\Lib\site-packages\pylint\test\functional\unsupported_assignment_operation.py	/^numbers = [1, 2, 3]$/;"	kind:variable	line:10
 numbers	../venv\Lib\site-packages\pylint\test\functional\unsupported_delete_operation.py	/^numbers = [1, 2, 3]$/;"	kind:variable	line:10
 numbers	../venv\Lib\site-packages\setuptools\dist.py	/^import numbers$/;"	kind:namespace	line:6
+numcols	../04_practice_char_picture_grid.py	/^numcols = len(input[0])  # 2 columns in your example$/;"	kind:variable	line:27
 numeric_re	../venv\Lib\site-packages\pip\_vendor\distlib\version.py	/^    numeric_re = re.compile('^(\\d+(\\.\\d+)*)')$/;"	kind:variable	line:631
 numeric_types	../venv\Lib\site-packages\pip\_vendor\requests\compat.py	/^    numeric_types = (int, float)$/;"	kind:variable	line:68
 numeric_types	../venv\Lib\site-packages\pip\_vendor\requests\compat.py	/^    numeric_types = (int, long, float)$/;"	kind:variable	line:54
@@ -21838,6 +21843,7 @@ numpy	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^    import num
 numpy	../venv\Lib\site-packages\astroid\tests\unittest_regrtest.py	/^            import numpy # pylint: disable=unused-variable$/;"	kind:namespace	line:111
 numpy_core_transform	../venv\Lib\site-packages\astroid\brain\brain_numpy.py	/^def numpy_core_transform():$/;"	kind:function	line:14
 numpy_transform	../venv\Lib\site-packages\astroid\brain\brain_numpy.py	/^def numpy_transform():$/;"	kind:function	line:34
+numrows	../04_practice_char_picture_grid.py	/^numrows = len(input)    # 3 rows in your example$/;"	kind:variable	line:26
 nums	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^nums       = "0123456789"$/;"	kind:variable	line:176
 nums	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^nums       = "0123456789"$/;"	kind:variable	line:176
 numversion	../venv\Lib\site-packages\astroid\__pkginfo__.py	/^numversion = tuple(map(int, version.split('.')))$/;"	kind:variable	line:20
