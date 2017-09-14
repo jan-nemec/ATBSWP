@@ -35,6 +35,9 @@
 04_practice_comma_code.py	../04_practice_comma_code.py	1;"	kind:file	line:1
 04_swap_values.py	../04_swap_values.py	1;"	kind:file	line:1
 05_dictionaries_birthdays.py	../05_dictionaries_birthdays.py	1;"	kind:file	line:1
+05_dictionaries_tic_tac_toe.py	../05_dictionaries_tic_tac_toe.py	1;"	kind:file	line:1
+05_nested_dictionaries.py	../05_nested_dictionaries.py	1;"	kind:file	line:1
+05_practice_inventory.py	../05_practice_inventory.py	1;"	kind:file	line:1
 A	../venv\Lib\re.py	/^    A = ASCII$/;"	kind:variable	line:150
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A(A):$/;"	kind:class	line:121
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A:$/;"	kind:class	line:116
@@ -12394,6 +12397,7 @@ aliasmbcs	../venv\Lib\site.py	/^def aliasmbcs():$/;"	kind:function	line:510
 alive	../venv\Lib\weakref.py	/^    def alive(self):$/;"	kind:member	line:538
 all.py	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\all.py	1;"	kind:file	line:1
 all.py	../venv\Lib\site-packages\astroid\tests\testdata\python3\data\all.py	1;"	kind:file	line:1
+allGuests	../05_nested_dictionaries.py	/^allGuests = {'Alice': {'apples': 5, 'pretzels': 12},$/;"	kind:variable	line:1
 all_feature_names	../venv\Lib\__future__.py	/^all_feature_names = [$/;"	kind:variable	line:50
 all_schemes	../venv\Lib\site-packages\pip\vcs\__init__.py	/^    def all_schemes(self):$/;"	kind:member	line:48
 all_suffixes	../venv\Lib\importlib\machinery.py	/^def all_suffixes():$/;"	kind:function	line:19
@@ -23039,6 +23043,7 @@ previous_sibling	../venv\Lib\site-packages\astroid\node_classes.py	/^    def pre
 previous_sibling	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^    def previous_sibling(self):$/;"	kind:member	line:381
 prf	../venv\Lib\hashlib.py	/^        def prf(msg, inner=inner, outer=outer):$/;"	kind:function	line:200
 print	../venv\Lib\site-packages\pylint\test\functional\defined_and_used_on_same_line.py	/^import sys; print(sys.exc_info())$/;"	kind:namespace	line:16
+printBoard	../05_dictionaries_tic_tac_toe.py	/^def printBoard(board):$/;"	kind:function	line:7
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    def print_(*args, **kwargs):$/;"	kind:function	line:723
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    def print_(*args, **kwargs):$/;"	kind:function	line:779
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^print_ = getattr(moves.builtins, "print", None)$/;"	kind:variable	line:721
@@ -27786,6 +27791,7 @@ the	../venv\Lib\distutils\__init__.py	/^import opcode # opcode is not a virtuale
 the	../venv\Lib\encodings\bz2_codec.py	/^import bz2 # this codec needs the optional bz2 module !$/;"	kind:namespace	line:11
 the	../venv\Lib\encodings\zlib_codec.py	/^import zlib # this codec needs the optional zlib module !$/;"	kind:namespace	line:9
 the	../venv\Lib\importlib\__init__.py	/^import _imp  # Just the builtin component, NOT the full Python module$/;"	kind:namespace	line:12
+theBoard	../05_dictionaries_tic_tac_toe.py	/^theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',$/;"	kind:variable	line:2
 these_are_bad	../venv\Lib\site-packages\pylint\test\functional\invalid_unary_operand_type.py	/^def these_are_bad():$/;"	kind:function	line:35
 these_are_good	../venv\Lib\site-packages\pylint\test\functional\invalid_unary_operand_type.py	/^def these_are_good():$/;"	kind:function	line:17
 thing1.py	../venv\Lib\site-packages\pylint\test\input\func_w0401_package\thing1.py	1;"	kind:file	line:1
@@ -27962,6 +27968,7 @@ top	../venv\Lib\site-packages\pylint\test\functional\undefined_variable_py30.py	
 topological_sort	../venv\Lib\site-packages\pip\_vendor\distlib\database.py	/^    def topological_sort(self):$/;"	kind:member	line:1159
 tostring	../venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py	/^    def tostring(element):  # pylint:disable=unused-variable$/;"	kind:function	line:259
 tostring	../venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py	/^def tostring(element):$/;"	kind:function	line:134
+totalBrought	../05_nested_dictionaries.py	/^def totalBrought(guests, item):$/;"	kind:function	line:6
 total_ordering	../venv\Lib\functools.py	/^def total_ordering(cls):$/;"	kind:function	line:193
 total_seconds	../venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py	/^def total_seconds(td):$/;"	kind:function	line:6
 total_seconds	../venv\Lib\site-packages\pip\compat\__init__.py	/^def total_seconds(td):$/;"	kind:function	line:93
@@ -28046,6 +28053,7 @@ try_encode	../venv\Lib\site-packages\setuptools\unicode_utils.py	/^def try_encod
 try_finally_disable_msg_crash.py	../venv\Lib\site-packages\pylint\test\regrtest_data\try_finally_disable_msg_crash.py	1;"	kind:file	line:1
 try_to_replace	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^    def try_to_replace(self, provider, other, problems):$/;"	kind:member	line:1135
 tuple_iterator	../venv\Lib\_collections_abc.py	/^tuple_iterator = type(iter(()))$/;"	kind:variable	line:48
+turn	../05_dictionaries_tic_tac_toe.py	/^turn = 'X'$/;"	kind:variable	line:15
 tutu	../venv\Lib\site-packages\pylint\test\functional\no_name_in_module.py	/^import collections.tutu  # [no-name-in-module]$/;"	kind:namespace	line:5
 tutuu	../venv\Lib\site-packages\pylint\test\functional\bad_indentation.py	/^def tutuu():$/;"	kind:function	line:8
 type	../venv\Lib\site-packages\astroid\node_classes.py	/^    type = None$/;"	kind:variable	line:1446
