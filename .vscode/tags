@@ -37,7 +37,13 @@
 05_dictionaries_birthdays.py	../05_dictionaries_birthdays.py	1;"	kind:file	line:1
 05_dictionaries_tic_tac_toe.py	../05_dictionaries_tic_tac_toe.py	1;"	kind:file	line:1
 05_nested_dictionaries.py	../05_nested_dictionaries.py	1;"	kind:file	line:1
+05_practice_add_to_inventory.py	../05_practice_add_to_inventory.py	1;"	kind:file	line:1
 05_practice_inventory.py	../05_practice_inventory.py	1;"	kind:file	line:1
+06_picnic_table.py	../06_picnic_table.py	1;"	kind:file	line:1
+06_project_bullet_point_adder.py	../06_project_bullet_point_adder.py	1;"	kind:file	line:1
+06_project_pw.py	../06_project_pw.py	1;"	kind:file	line:1
+06_project_table_printer.py	../06_project_table_printer.py	1;"	kind:file	line:1
+06_validate_input.py	../06_validate_input.py	1;"	kind:file	line:1
 A	../venv\Lib\re.py	/^    A = ASCII$/;"	kind:variable	line:150
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A(A):$/;"	kind:class	line:121
 A	../venv\Lib\site-packages\astroid\tests\testdata\python2\data\module2.py	/^class A:$/;"	kind:class	line:116
@@ -704,6 +710,7 @@ CHECKER_CLASS	../venv\Lib\site-packages\pylint\test\unittest_checker_variables.p
 CHECKER_CLASS	../venv\Lib\site-packages\pylint\testutils.py	/^    CHECKER_CLASS = None$/;"	kind:variable	line:206
 CHECKOUT_DIST	../venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py	/^CHECKOUT_DIST = 0$/;"	kind:variable	line:415
 CHECKOUT_DIST	../venv\Lib\site-packages\pkg_resources\__init__.py	/^CHECKOUT_DIST = 0$/;"	kind:variable	line:413
+CHECK_CMD	../venv\Lib\site-packages\pyperclip\__init__.py	/^CHECK_CMD = "where" if platform.system() == "Windows" else "which"$/;"	kind:variable	line:41
 CHRTYPE	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py	/^CHRTYPE = b"3"                  # character special device$/;"	kind:variable	line:94
 CHRTYPE	../venv\Lib\tarfile.py	/^CHRTYPE = b"3"                  # character special device$/;"	kind:variable	line:89
 CH_LOCALE	../venv\Lib\sre_constants.py	/^CH_LOCALE = {$/;"	kind:variable	line:142
@@ -900,6 +907,7 @@ CharsNotIn	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^class CharsNotIn
 CharsNotIn	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^class CharsNotIn(Token):$/;"	kind:class	line:2934
 CheckCommand	../venv\Lib\site-packages\pip\commands\__init__.py	/^from pip.commands.check import CheckCommand$/;"	kind:namespace	line:12
 CheckCommand	../venv\Lib\site-packages\pip\commands\check.py	/^class CheckCommand(Command):$/;"	kind:class	line:11
+CheckedCall	../venv\Lib\site-packages\pyperclip\windows.py	/^class CheckedCall(object):$/;"	kind:class	line:11
 Checker	../venv\Lib\site-packages\pep8.py	/^class Checker(object):$/;"	kind:class	line:1356
 Checker	../venv\Lib\site-packages\pycodestyle.py	/^class Checker(object):$/;"	kind:class	line:1518
 Checker	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^    class Checker(object):$/;"	kind:class	line:630
@@ -977,6 +985,7 @@ Clazz	../venv\Lib\site-packages\pylint\test\functional\monkeypatch_method.py	/^c
 Clazz	../venv\Lib\site-packages\pylint\test\input\func_noerror_class_attributes.py	/^class Clazz(object):$/;"	kind:class	line:4
 Client	../venv\Lib\site-packages\pylint\test\functional\confidence_filter.py	/^class Client(object):$/;"	kind:class	line:4
 Client	../venv\Lib\site-packages\pylint\test\functional\member_checks.py	/^class Client(object):$/;"	kind:class	line:18
+ClipboardUnavailable	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    class ClipboardUnavailable(object):$/;"	kind:class	line:123
 CloseMatch	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^class CloseMatch(Token):$/;"	kind:class	line:2504
 CloseMatch	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^class CloseMatch(Token):$/;"	kind:class	line:2504
 ClosedPoolError	../venv\Lib\site-packages\pip\_vendor\requests\adapters.py	/^from .packages.urllib3.exceptions import ClosedPoolError$/;"	kind:namespace	line:24
@@ -1371,6 +1380,7 @@ DUMMY	../venv\Lib\site-packages\pylint\test\functional\names_in__all__.py	/^DUMM
 DUMMY	../venv\Lib\site-packages\pylint\test\regrtest_data\dummy\__init__.py	/^from .dummy import DUMMY$/;"	kind:namespace	line:2
 DUMMY	../venv\Lib\site-packages\pylint\test\regrtest_data\dummy\dummy.py	/^DUMMY = 42$/;"	kind:variable	line:2
 DUNDER_REGEX	../venv\Lib\site-packages\pycodestyle.py	/^DUNDER_REGEX = re.compile(r'^__([^\\s]+)__ = ')$/;"	kind:variable	line:137
+DWORD	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
 Data	../venv\Lib\site-packages\pylint\test\functional\class_scope.py	/^    class Data(object):$/;"	kind:class	line:15
 DataDescriptor	../venv\Lib\site-packages\pylint\test\functional\assigning_non_slot.py	/^class DataDescriptor(object):$/;"	kind:class	line:103
 DataLossWarning	../venv\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py	/^from .constants import DataLossWarning$/;"	kind:namespace	line:6
@@ -2086,6 +2096,7 @@ HASHER_HASH	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^HASHER_H
 HASHFUNC_MAP	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py	/^HASHFUNC_MAP = {$/;"	kind:variable	line:18
 HAS_DATEUTIL	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^    HAS_DATEUTIL = False$/;"	kind:variable	line:40
 HAS_DATEUTIL	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^    HAS_DATEUTIL = True$/;"	kind:variable	line:38
+HAS_DISPLAY	../venv\Lib\site-packages\pyperclip\__init__.py	/^HAS_DISPLAY = os.getenv("DISPLAY", False)$/;"	kind:variable	line:40
 HAS_ENUM	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^        HAS_ENUM = False$/;"	kind:variable	line:28
 HAS_ENUM	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^        HAS_ENUM = True$/;"	kind:variable	line:26
 HAS_ENUM	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^    HAS_ENUM = True$/;"	kind:variable	line:22
@@ -2112,6 +2123,7 @@ HERE	../venv\Lib\site-packages\pylint\test\test_self.py	/^HERE = abspath(dirname
 HERE	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^HERE = abspath(dirname(__file__))$/;"	kind:variable	line:73
 HEX	../venv\Lib\site-packages\pylint\test\input\func_excess_escapes.py	/^HEX = '\\xad\\x0a\\x0d'$/;"	kind:variable	line:14
 HEXDIGITS	../venv\Lib\sre_parse.py	/^HEXDIGITS = frozenset("0123456789abcdefABCDEF")$/;"	kind:variable	line:23
+HGLOBAL	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
 HIDE_CURSOR	../venv\Lib\site-packages\pip\_vendor\progress\helpers.py	/^HIDE_CURSOR = '\\x1b[?25l'$/;"	kind:variable	line:18
 HIGH	../venv\Lib\site-packages\pylint\checkers\newstyle.py	/^from pylint.interfaces import IAstroidChecker, INFERENCE, INFERENCE_FAILURE, HIGH$/;"	kind:namespace	line:13
 HIGH	../venv\Lib\site-packages\pylint\checkers\variables.py	/^from pylint.interfaces import IAstroidChecker, INFERENCE, INFERENCE_FAILURE, HIGH$/;"	kind:namespace	line:29
@@ -2195,6 +2207,7 @@ HTTPSPoolKey	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poo
 HTTPWarning	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py	/^class HTTPWarning(Warning):$/;"	kind:class	line:10
 HUNK_REGEX	../venv\Lib\site-packages\pep8.py	/^HUNK_REGEX = re.compile(r'^@@ -\\d+(?:,\\d+)? \\+(\\d+)(?:,(\\d+))? @@.*$')$/;"	kind:variable	line:119
 HUNK_REGEX	../venv\Lib\site-packages\pycodestyle.py	/^HUNK_REGEX = re.compile(r'^@@ -\\d+(?:,\\d+)? \\+(\\d+)(?:,(\\d+))? @@.*$')$/;"	kind:variable	line:123
+HWND	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
 HZCharLenTable	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py	/^HZCharLenTable = (0, 0, 0, 0, 0, 0)$/;"	kind:variable	line:74
 HZSMModel	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py	/^from .escsm import (HZSMModel, ISO2022CNSMModel, ISO2022JPSMModel,$/;"	kind:namespace	line:29
 HZSMModel	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py	/^HZSMModel = {'classTable': HZ_cls,$/;"	kind:variable	line:76
@@ -2309,6 +2322,7 @@ INSTALL_SCHEMES	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^ 
 INSTALL_SCHEMES	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^from distutils.command.install import INSTALL_SCHEMES, SCHEME_KEYS$/;"	kind:namespace	line:21
 INSTANCE	../venv\Lib\site-packages\pylint\test\functional\not_callable.py	/^INSTANCE = Correct()$/;"	kind:variable	line:20
 INT	../venv\Lib\site-packages\pylint\test\functional\not_callable.py	/^INT = 1$/;"	kind:variable	line:30
+INT	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
 INVALID_BASE_CLASSES	../venv\Lib\site-packages\pylint\checkers\classes.py	/^INVALID_BASE_CLASSES = {'bool', 'range', 'slice', 'memoryview'}$/;"	kind:variable	line:43
 INVALID_DICT	../venv\Lib\site-packages\pylint\test\functional\dangerous_default_value.py	/^INVALID_DICT = dict([(1, 2), (1, 2, 3)])$/;"	kind:variable	line:71
 INVALID_DICT	../venv\Lib\site-packages\pylint\test\functional\dangerous_default_value_py30.py	/^INVALID_DICT = dict([(1, 2), (1, 2, 3)])$/;"	kind:variable	line:71
@@ -2926,6 +2940,8 @@ LPAREN	../venv\Lib\site-packages\pip\_vendor\packaging\markers.py	/^LPAREN = L("
 LPAREN	../venv\Lib\site-packages\pip\_vendor\packaging\requirements.py	/^LPAREN = L("(").suppress()$/;"	kind:variable	line:30
 LPAREN	../venv\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py	/^LPAREN = L("(").suppress()$/;"	kind:variable	line:131
 LPAREN	../venv\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py	/^LPAREN = L("(").suppress()$/;"	kind:variable	line:28
+LPCSTR	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
+LPVOID	../venv\Lib\site-packages\pyperclip\windows.py	/^    from ctypes.wintypes import (HGLOBAL, LPVOID, DWORD, LPCSTR, INT, HWND,$/;"	kind:namespace	line:26
 LRU_CACHE	../venv\Lib\site-packages\astroid\brain\brain_functools.py	/^LRU_CACHE = 'functools.lru_cache'$/;"	kind:variable	line:13
 LSQB	../venv\Lib\token.py	/^LSQB = 9$/;"	kind:variable	line:22
 Lala	../venv\Lib\site-packages\pylint\test\regrtest_data\beyond_top\__init__.py	/^    from ... import Lala$/;"	kind:namespace	line:4
@@ -3762,6 +3778,7 @@ OverlappingExceptionsChecker	../venv\Lib\site-packages\pylint\test\extensions\te
 OverridesSpecialMethod	../venv\Lib\site-packages\pylint\test\functional\arguments_differ.py	/^class OverridesSpecialMethod(HasSpecialMethod):$/;"	kind:class	line:195
 P	../venv\Lib\site-packages\wheel\signatures\djbec.py	/^P = q$/;"	kind:variable	line:199
 PARAM	../venv\Lib\site-packages\pylint\test\functional\missing_kwoa_py3.py	/^PARAM = 1$/;"	kind:variable	line:24
+PASSWORDS	../06_project_pw.py	/^PASSWORDS = {'email': 'F7minlBDDuwMJuxESSKHfhTxFtjVB6',$/;"	kind:variable	line:3
 PATH	../venv\Lib\site-packages\pylint\test\input\func_w0612.py	/^    from os import path as PATH$/;"	kind:namespace	line:29
 PAX_FIELDS	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py	/^PAX_FIELDS = ("path", "linkpath", "size", "mtime",$/;"	kind:variable	line:132
 PAX_FIELDS	../venv\Lib\tarfile.py	/^PAX_FIELDS = ("path", "linkpath", "size", "mtime",$/;"	kind:variable	line:127
@@ -4033,9 +4050,14 @@ PyPIConfig	../venv\Lib\site-packages\setuptools\package_index.py	/^class PyPICon
 PyPIJSONLocator	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^class PyPIJSONLocator(Locator):$/;"	kind:class	line:444
 PyPIRCCommand	../venv\Lib\site-packages\pip\_vendor\distlib\index.py	/^        from distutils.config import PyPIRCCommand$/;"	kind:namespace	line:72
 PyPIRPCLocator	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^class PyPIRPCLocator(Locator):$/;"	kind:class	line:396
+PyQt4	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import PyQt4  # check if PyQt4 is installed$/;"	kind:namespace	line:70
 PyStringMap	../venv\Lib\copy.py	/^    PyStringMap = None$/;"	kind:variable	line:62
 PyStringMap	../venv\Lib\copy.py	/^    from org.python.core import PyStringMap$/;"	kind:namespace	line:60
 PyTrie	../venv\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py	/^from .py import Trie as PyTrie$/;"	kind:namespace	line:3
+PyperclipException	../venv\Lib\site-packages\pyperclip\clipboards.py	/^from .exceptions import PyperclipException$/;"	kind:namespace	line:3
+PyperclipException	../venv\Lib\site-packages\pyperclip\exceptions.py	/^class PyperclipException(RuntimeError):$/;"	kind:class	line:4
+PyperclipWindowsException	../venv\Lib\site-packages\pyperclip\exceptions.py	/^class PyperclipWindowsException(PyperclipException):$/;"	kind:class	line:8
+PyperclipWindowsException	../venv\Lib\site-packages\pyperclip\windows.py	/^from .exceptions import PyperclipWindowsException$/;"	kind:namespace	line:8
 PytestBrainTest	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^class PytestBrainTest(unittest.TestCase):$/;"	kind:class	line:562
 Python	../venv\Lib\importlib\__init__.py	/^import _imp  # Just the builtin component, NOT the full Python module$/;"	kind:namespace	line:12
 Python	../venv\Lib\site-packages\setuptools\site-patch.py	/^                import imp  # Avoid import loop in Python >= 3.3$/;"	kind:namespace	line:26
@@ -4045,6 +4067,7 @@ Python35AsyncTest	../venv\Lib\site-packages\astroid\tests\unittest_nodes.py	/^cl
 Python3Checker	../venv\Lib\site-packages\pylint\checkers\python3.py	/^class Python3Checker(checkers.BaseChecker):$/;"	kind:class	line:100
 Python3TC	../venv\Lib\site-packages\astroid\tests\unittest_python3.py	/^class Python3TC(unittest.TestCase):$/;"	kind:class	line:18
 Python3TokenChecker	../venv\Lib\site-packages\pylint\checkers\python3.py	/^class Python3TokenChecker(checkers.BaseTokenChecker):$/;"	kind:class	line:821
+QApplication	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    from PyQt4.QtGui import QApplication$/;"	kind:namespace	line:49
 QName	../venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py	/^from genshi.core import QName, Attrs$/;"	kind:namespace	line:3
 QName	../venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py	/^from genshi.core import QName$/;"	kind:namespace	line:3
 QUOTES	../venv\Lib\site-packages\pylint\test\input\func_excess_escapes.py	/^QUOTES = '\\'\\"'$/;"	kind:variable	line:21
@@ -6307,6 +6330,7 @@ __all__	../venv\Lib\site-packages\pylint\test\functional\names_in__all__.py	/^__
 __all__	../venv\Lib\site-packages\pylint\test\functional\uninferable_all_object.py	/^__all__ = sorted([$/;"	kind:variable	line:3
 __all__	../venv\Lib\site-packages\pylint\test\functional\unused_import.py	/^from never import __all__$/;"	kind:namespace	line:18
 __all__	../venv\Lib\site-packages\pylint\test\regrtest_data\package_all\__init__.py	/^__all__ = ['notmissing', 'missing']$/;"	kind:variable	line:3
+__all__	../venv\Lib\site-packages\pyperclip\__init__.py	/^__all__ = ["copy", "paste"]$/;"	kind:variable	line:103
 __all__	../venv\Lib\site-packages\setuptools\__init__.py	/^__all__ = [$/;"	kind:variable	line:18
 __all__	../venv\Lib\site-packages\setuptools\archive_util.py	/^__all__ = [$/;"	kind:variable	line:13
 __all__	../venv\Lib\site-packages\setuptools\command\__init__.py	/^__all__ = [$/;"	kind:variable	line:1
@@ -6390,6 +6414,7 @@ __bool__	../venv\Lib\site-packages\pip\exceptions.py	/^    def __bool__(self):$/
 __bool__	../venv\Lib\site-packages\pip\utils\hashes.py	/^    def __bool__(self):$/;"	kind:member	line:74
 __bool__	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    def __bool__(self): return ( not not self.__toklist )$/;"	kind:member	line:435
 __bool__	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    def __bool__(self):$/;"	kind:member	line:3914
+__bool__	../venv\Lib\site-packages\pyperclip\clipboards.py	/^            def __bool__(self):$/;"	kind:function	line:131
 __bool__	../venv\Lib\site-packages\wrapt\wrappers.py	/^    def __bool__(self):$/;"	kind:member	line:160
 __boot	../venv\Lib\site-packages\setuptools\site-patch.py	/^def __boot():$/;"	kind:function	line:1
 __bound_function_wrapper__	../venv\Lib\site-packages\wrapt\decorators.py	/^    __bound_function_wrapper__ = _BoundAdapterWrapper$/;"	kind:variable	line:125
@@ -6429,6 +6454,8 @@ __call__	../venv\Lib\site-packages\pylint\test\functional\not_callable.py	/^    
 __call__	../venv\Lib\site-packages\pylint\test\functional\singledispatch_functions.py	/^    def __call__(self, function):$/;"	kind:member	line:20
 __call__	../venv\Lib\site-packages\pylint\test\functional\singledispatch_functions_py3.py	/^    def __call__(self, function):$/;"	kind:member	line:20
 __call__	../venv\Lib\site-packages\pylint\test\functional\unexpected_special_method_signature.py	/^    def __call__(self, also, trv, for_this):$/;"	kind:member	line:77
+__call__	../venv\Lib\site-packages\pyperclip\clipboards.py	/^        def __call__(self, *args, **kwargs):$/;"	kind:member	line:124
+__call__	../venv\Lib\site-packages\pyperclip\windows.py	/^    def __call__(self, *args):$/;"	kind:member	line:15
 __call__	../venv\Lib\site-packages\wrapt\decorators.py	/^    def __call__(self, wrapped):$/;"	kind:member	line:155
 __call__	../venv\Lib\site-packages\wrapt\decorators.py	/^    def __call__(self, wrapped):$/;"	kind:member	line:162
 __call__	../venv\Lib\site-packages\wrapt\wrappers.py	/^    def __call__(self, *args, **kwargs):$/;"	kind:member	line:415
@@ -7993,6 +8020,8 @@ __init__	../venv\Lib\site-packages\pylint\utils.py	/^    def __init__(self):$/;"
 __init__	../venv\Lib\site-packages\pylint\utils.py	/^    def __init__(self, checker, msgid, msg, descr, symbol, scope,$/;"	kind:member	line:158
 __init__	../venv\Lib\site-packages\pylint\utils.py	/^    def __init__(self, linter):$/;"	kind:member	line:904
 __init__	../venv\Lib\site-packages\pylint\utils.py	/^    def __init__(self, modname=None):$/;"	kind:member	line:520
+__init__	../venv\Lib\site-packages\pyperclip\exceptions.py	/^    def __init__(self, message):$/;"	kind:member	line:9
+__init__	../venv\Lib\site-packages\pyperclip\windows.py	/^    def __init__(self, f):$/;"	kind:member	line:12
 __init__	../venv\Lib\site-packages\setuptools\__init__.py	/^    def __init__(self, dist, **kw):$/;"	kind:member	line:122
 __init__	../venv\Lib\site-packages\setuptools\command\develop.py	/^    def __init__(self, dist):$/;"	kind:member	line:207
 __init__	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^    def __init__(self, filename, sitedirs=()):$/;"	kind:member	line:1545
@@ -8169,6 +8198,7 @@ __init__.py	../venv\Lib\site-packages\pylint\test\regrtest_data\dummy\__init__.p
 __init__.py	../venv\Lib\site-packages\pylint\test\regrtest_data\package\__init__.py	1;"	kind:file	line:1
 __init__.py	../venv\Lib\site-packages\pylint\test\regrtest_data\package\subpackage\__init__.py	1;"	kind:file	line:1
 __init__.py	../venv\Lib\site-packages\pylint\test\regrtest_data\package_all\__init__.py	1;"	kind:file	line:1
+__init__.py	../venv\Lib\site-packages\pyperclip\__init__.py	1;"	kind:file	line:1
 __init__.py	../venv\Lib\site-packages\setuptools\__init__.py	1;"	kind:file	line:1
 __init__.py	../venv\Lib\site-packages\setuptools\command\__init__.py	1;"	kind:file	line:1
 __init__.py	../venv\Lib\site-packages\setuptools\extern\__init__.py	1;"	kind:file	line:1
@@ -8652,6 +8682,7 @@ __nonzero__	../venv\Lib\site-packages\pip\exceptions.py	/^    def __nonzero__(se
 __nonzero__	../venv\Lib\site-packages\pip\utils\hashes.py	/^    def __nonzero__(self):$/;"	kind:member	line:70
 __nonzero__	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    __nonzero__ = __bool__$/;"	kind:variable	line:3916
 __nonzero__	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    __nonzero__ = __bool__$/;"	kind:variable	line:436
+__nonzero__	../venv\Lib\site-packages\pyperclip\clipboards.py	/^            def __nonzero__(self):$/;"	kind:function	line:128
 __nonzero__	../venv\Lib\site-packages\wrapt\wrappers.py	/^    def __nonzero__(self):$/;"	kind:member	line:157
 __not__	../venv\Lib\operator.py	/^__not__ = not_$/;"	kind:variable	line:426
 __oct__	../venv\Lib\site-packages\lazy_object_proxy\simple.py	/^    __oct__ = make_proxy_method(oct)$/;"	kind:variable	line:217
@@ -9074,6 +9105,7 @@ __setattr__	../venv\Lib\site-packages\lazy_object_proxy\simple.py	/^    def __se
 __setattr__	../venv\Lib\site-packages\lazy_object_proxy\slots.py	/^    def __setattr__(self, name, value, __setattr__=object.__setattr__):$/;"	kind:member	line:189
 __setattr__	../venv\Lib\site-packages\pip\_vendor\distlib\metadata.py	/^    def __setattr__(self, key, value):$/;"	kind:member	line:793
 __setattr__	../venv\Lib\site-packages\pylint\test\functional\unexpected_special_method_signature.py	/^    def __setattr__(self): # [unexpected-special-method-signature]$/;"	kind:member	line:17
+__setattr__	../venv\Lib\site-packages\pyperclip\windows.py	/^    def __setattr__(self, key, value):$/;"	kind:member	line:21
 __setattr__	../venv\Lib\site-packages\wrapt\wrappers.py	/^    def __setattr__(self, name, value):$/;"	kind:member	line:163
 __setitem__	../venv\Lib\_collections_abc.py	/^    def __setitem__(self, index, value):$/;"	kind:member	line:953
 __setitem__	../venv\Lib\_collections_abc.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:781
@@ -9417,6 +9449,7 @@ __version__	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^__ver
 __version__	../venv\Lib\site-packages\pkg_resources\_vendor\six.py	/^__version__ = "1.10.0"$/;"	kind:variable	line:32
 __version__	../venv\Lib\site-packages\pycodestyle.py	/^__version__ = '2.3.1'$/;"	kind:variable	line:69
 __version__	../venv\Lib\site-packages\pylint\__init__.py	/^from .__pkginfo__ import version as __version__$/;"	kind:namespace	line:8
+__version__	../venv\Lib\site-packages\pyperclip\__init__.py	/^__version__ = '1.5.27'$/;"	kind:variable	line:26
 __version__	../venv\Lib\site-packages\setuptools\__init__.py	/^__version__ = setuptools.version.__version__$/;"	kind:variable	line:23
 __version__	../venv\Lib\site-packages\setuptools\version.py	/^    __version__ = 'unknown'$/;"	kind:variable	line:6
 __version__	../venv\Lib\site-packages\setuptools\version.py	/^    __version__ = pkg_resources.get_distribution('setuptools').version$/;"	kind:variable	line:4
@@ -10216,6 +10249,7 @@ _exclude_pattern	../venv\Lib\site-packages\pip\_vendor\distlib\manifest.py	/^   
 _exclude_pkg_path	../venv\Lib\site-packages\setuptools\command\install_lib.py	/^    def _exclude_pkg_path(self, pkg, exclusion_path):$/;"	kind:member	line:31
 _exec	../venv\Lib\importlib\_bootstrap.py	/^def _exec(spec, module):$/;"	kind:function	line:587
 _execfile	../venv\Lib\site-packages\setuptools\sandbox.py	/^def _execfile(filename, globals, locals=None):$/;"	kind:function	line:35
+_executable_exists	../venv\Lib\site-packages\pyperclip\__init__.py	/^def _executable_exists(name):$/;"	kind:function	line:44
 _execute	../venv\Lib\site-packages\wrapt\wrappers.py	/^            def _execute(wrapped, instance, args, kwargs):$/;"	kind:function	line:800
 _execute_pep8	../venv\Lib\site-packages\autopep8.py	/^def _execute_pep8(pep8_options, source):$/;"	kind:function	line:2569
 _execvpe	../venv\Lib\os.py	/^def _execvpe(file, args, env=None):$/;"	kind:function	line:572
@@ -12209,6 +12243,7 @@ access_requirements	../venv\Lib\site-packages\pylint\test\functional\iterable_co
 access_to__name__.py	../venv\Lib\site-packages\pylint\test\functional\access_to__name__.py	1;"	kind:file	line:1
 access_to_protected_members.py	../venv\Lib\site-packages\pylint\test\functional\access_to_protected_members.py	1;"	kind:file	line:1
 accessed	../venv\Lib\site-packages\pylint\checkers\classes.py	/^    def accessed(self, scope):$/;"	kind:member	line:463
+account	../06_project_pw.py	/^account = sys.argv[1]  # first command line arg is the account name$/;"	kind:variable	line:14
 ace_prefix	../venv\Lib\encodings\idna.py	/^ace_prefix = b"xn--"$/;"	kind:variable	line:10
 aclose	../venv\Lib\_collections_abc.py	/^    async def aclose(self):$/;"	kind:member	line:222
 acquire	../venv\Lib\_dummy_thread.py	/^    def acquire(self, waitflag=None, timeout=-1):$/;"	kind:member	line:102
@@ -12277,6 +12312,7 @@ add	../venv\Lib\tarfile.py	/^    def add(self, name, arcname=None, recursive=Tru
 addCondition	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^    def addCondition(self, *fns, **kwargs):$/;"	kind:member	line:1275
 addCondition	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    def addCondition(self, *fns, **kwargs):$/;"	kind:member	line:1275
 addFormattingElement	../venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py	/^        def addFormattingElement(self, token):$/;"	kind:member	line:949
+addInventory	../05_practice_add_to_inventory.py	/^def addInventory(inventory, addedItems):$/;"	kind:function	line:16
 addParseAction	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^    def addParseAction( self, *fns, **kwargs ):$/;"	kind:member	line:1265
 addParseAction	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    def addParseAction( self, *fns, **kwargs ):$/;"	kind:member	line:1265
 add_block_warning	../venv\Lib\site-packages\pylint\checkers\format.py	/^    def add_block_warning(self, token_position, state, valid_offsets):$/;"	kind:member	line:329
@@ -12382,6 +12418,7 @@ afterDoctypePublicKeywordState	../venv\Lib\site-packages\pip\_vendor\html5lib\_t
 afterDoctypeSystemIdentifierState	../venv\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py	/^    def afterDoctypeSystemIdentifierState(self):$/;"	kind:member	line:1660
 afterDoctypeSystemKeywordState	../venv\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py	/^    def afterDoctypeSystemKeywordState(self):$/;"	kind:member	line:1563
 age	../02_if_elif_else_vampire.py	/^age = 3000$/;"	kind:variable	line:2
+age	../06_validate_input.py	/^    age = input()$/;"	kind:variable	line:3
 ala	../venv\Lib\site-packages\pylint\test\functional\not_in_loop.py	/^    def ala():$/;"	kind:function	line:6
 algorithms_available	../venv\Lib\hashlib.py	/^algorithms_available = set(__always_supported)$/;"	kind:variable	line:65
 algorithms_guaranteed	../venv\Lib\hashlib.py	/^algorithms_guaranteed = set(__always_supported)$/;"	kind:variable	line:64
@@ -13337,6 +13374,9 @@ cStyleComment	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^cSt
 c_char	../venv\Lib\site-packages\colorama\win32.py	/^    from ctypes import byref, Structure, c_char, POINTER$/;"	kind:namespace	line:17
 c_char	../venv\Lib\site-packages\pip\_vendor\colorama\win32.py	/^    from ctypes import byref, Structure, c_char, POINTER$/;"	kind:namespace	line:17
 c_int	../venv\Lib\site-packages\pylint\test\functional\unbalanced_tuple_unpacking.py	/^    from ctypes import c_int$/;"	kind:namespace	line:106
+c_size_t	../venv\Lib\site-packages\pyperclip\windows.py	/^from ctypes import c_size_t, sizeof, c_wchar_p, get_errno, c_wchar$/;"	kind:namespace	line:7
+c_wchar	../venv\Lib\site-packages\pyperclip\windows.py	/^from ctypes import c_size_t, sizeof, c_wchar_p, get_errno, c_wchar$/;"	kind:namespace	line:7
+c_wchar_p	../venv\Lib\site-packages\pyperclip\windows.py	/^from ctypes import c_size_t, sizeof, c_wchar_p, get_errno, c_wchar$/;"	kind:namespace	line:7
 ca_cert_dir	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py	/^    ca_cert_dir = None$/;"	kind:variable	line:232
 ca_certs	../venv\Lib\site-packages\pip\_vendor\distlib\util.py	/^        ca_certs = None # set this to the path to the certs file (.pem)$/;"	kind:variable	line:1273
 ca_certs	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py	/^    ca_certs = None$/;"	kind:variable	line:231
@@ -13536,6 +13576,8 @@ check	../venv\Lib\site-packages\pip\_vendor\distlib\metadata.py	/^    def check(
 check	../venv\Lib\site-packages\pylint\lint.py	/^    def check(self, files_or_modules):$/;"	kind:member	line:712
 check	../venv\Lib\site-packages\pylint\test\functional\no_self_use.py	/^    def check(self, arg):$/;"	kind:member	line:27
 check	../venv\Lib\site-packages\pylint\test\functional\no_self_use.py	/^    def check(self, arg):$/;"	kind:member	line:35
+check	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import PyQt4  # check if PyQt4 is installed$/;"	kind:namespace	line:70
+check	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import gtk  # check if gtk is installed$/;"	kind:namespace	line:63
 check	../venv\Lib\site-packages\wheel\test\test_install.py	/^def check(*path):$/;"	kind:function	line:25
 check.py	../venv\Lib\site-packages\pip\commands\check.py	1;"	kind:file	line:1
 check.py	../venv\Lib\site-packages\pip\operations\check.py	1;"	kind:file	line:1
@@ -13798,6 +13840,8 @@ clearcache	../venv\Lib\linecache.py	/^def clearcache():$/;"	kind:function	line:3
 clearln	../venv\Lib\site-packages\pip\_vendor\progress\helpers.py	/^    def clearln(self):$/;"	kind:member	line:61
 client_cert	../venv\Lib\site-packages\pip\cmdoptions.py	/^client_cert = partial($/;"	kind:variable	line:206
 clientmodule_test.py	../venv\Lib\site-packages\pylint\test\data\clientmodule_test.py	1;"	kind:file	line:1
+clipboard	../venv\Lib\site-packages\pyperclip\windows.py	/^    def clipboard(hwnd):$/;"	kind:function	line:90
+clipboards.py	../venv\Lib\site-packages\pyperclip\clipboards.py	1;"	kind:file	line:1
 clobber	../venv\Lib\site-packages\pip\wheel.py	/^    def clobber(source, dest, is_base, fixer=None, filter=None):$/;"	kind:function	line:286
 clobber_in_except	../venv\Lib\site-packages\pylint\checkers\utils.py	/^def clobber_in_except(node):$/;"	kind:function	line:131
 clobbering	../venv\Lib\site-packages\pylint\test\input\func_no_dummy_redefined.py	/^def clobbering():$/;"	kind:function	line:10
@@ -14479,6 +14523,7 @@ contextlib	../venv\Lib\site-packages\pylint\test\functional\not_async_context_ma
 contextlib	../venv\Lib\site-packages\pylint\test\test_self.py	/^import contextlib$/;"	kind:namespace	line:8
 contextlib	../venv\Lib\site-packages\pylint\test\unittest_checker_stdlib.py	/^import contextlib$/;"	kind:namespace	line:7
 contextlib	../venv\Lib\site-packages\pylint\testutils.py	/^import contextlib$/;"	kind:namespace	line:12
+contextlib	../venv\Lib\site-packages\pyperclip\windows.py	/^import contextlib$/;"	kind:namespace	line:5
 contextlib	../venv\Lib\site-packages\setuptools\archive_util.py	/^import contextlib$/;"	kind:namespace	line:8
 contextlib	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^import contextlib$/;"	kind:namespace	line:38
 contextlib	../venv\Lib\site-packages\setuptools\command\sdist.py	/^import contextlib$/;"	kind:namespace	line:6
@@ -14614,9 +14659,16 @@ copy_context	../venv\Lib\site-packages\astroid\context.py	/^def copy_context(con
 copy_extensions_to_source	../venv\Lib\site-packages\setuptools\command\build_ext.py	/^    def copy_extensions_to_source(self):$/;"	kind:member	line:80
 copy_file	../venv\Lib\site-packages\pip\_vendor\distlib\util.py	/^    def copy_file(self, infile, outfile, check=True):$/;"	kind:member	line:372
 copy_file	../venv\Lib\site-packages\setuptools\command\build_ext.py	/^from distutils.file_util import copy_file$/;"	kind:namespace	line:6
+copy_gtk	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_gtk(text):$/;"	kind:function	line:30
+copy_klipper	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_klipper(text):$/;"	kind:function	line:95
 copy_metadata_to	../venv\Lib\site-packages\setuptools\command\bdist_egg.py	/^    def copy_metadata_to(self, target_dir):$/;"	kind:member	line:286
+copy_osx	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_osx(text):$/;"	kind:function	line:13
+copy_qt	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_qt(text):$/;"	kind:function	line:53
 copy_stream	../venv\Lib\site-packages\pip\_vendor\distlib\util.py	/^    def copy_stream(self, instream, outfile, encoding=None):$/;"	kind:member	line:389
 copy_tree	../venv\Lib\site-packages\setuptools\command\install_lib.py	/^    def copy_tree($/;"	kind:member	line:86
+copy_windows	../venv\Lib\site-packages\pyperclip\windows.py	/^    def copy_windows(text):$/;"	kind:function	line:113
+copy_xclip	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_xclip(text):$/;"	kind:function	line:65
+copy_xsel	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def copy_xsel(text):$/;"	kind:function	line:80
 copyfile	../venv\Lib\shutil.py	/^def copyfile(src, dst, *, follow_symlinks=True):$/;"	kind:function	line:90
 copyfile	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py	/^def copyfile(src, dst):$/;"	kind:function	line:87
 copyfileobj	../venv\Lib\shutil.py	/^def copyfileobj(fsrc, fdst, length=16*1024):$/;"	kind:function	line:70
@@ -14779,6 +14831,8 @@ ctypes	../venv\Lib\site-packages\pip\_vendor\colorama\win32.py	/^    import ctyp
 ctypes	../venv\Lib\site-packages\pip\utils\appdirs.py	/^        import ctypes$/;"	kind:namespace	line:227
 ctypes	../venv\Lib\site-packages\pip\utils\glibc.py	/^import ctypes$/;"	kind:namespace	line:4
 ctypes	../venv\Lib\site-packages\pkg_resources\_vendor\appdirs.py	/^    import ctypes$/;"	kind:namespace	line:457
+ctypes	../venv\Lib\site-packages\pyperclip\exceptions.py	/^import ctypes$/;"	kind:namespace	line:1
+ctypes	../venv\Lib\site-packages\pyperclip\windows.py	/^import ctypes$/;"	kind:namespace	line:6
 ctypes	../venv\Lib\site-packages\setuptools\windows_support.py	/^import ctypes$/;"	kind:namespace	line:2
 ctypes	../venv\Lib\site-packages\wheel\util.py	/^    import ctypes.wintypes$/;"	kind:namespace	line:116
 curdir	../venv\Lib\ntpath.py	/^curdir = '.'$/;"	kind:variable	line:24
@@ -15464,6 +15518,7 @@ detect_encoding	../venv\Lib\site-packages\pip\_vendor\distlib\compat.py	/^    fr
 detect_encoding	../venv\Lib\site-packages\pip\_vendor\distlib\scripts.py	/^from .compat import sysconfig, detect_encoding, ZipFile$/;"	kind:namespace	line:14
 detect_encoding	../venv\Lib\tokenize.py	/^def detect_encoding(readline):$/;"	kind:function	line:355
 determineEncoding	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def determineEncoding(self, chardet=True):$/;"	kind:member	line:457
+determine_clipboard	../venv\Lib\site-packages\pyperclip\__init__.py	/^def determine_clipboard():$/;"	kind:function	line:49
 dev_requires	../venv\Lib\site-packages\pip\_vendor\distlib\database.py	/^    def dev_requires(self):$/;"	kind:member	line:396
 develop	../venv\Lib\site-packages\setuptools\command\develop.py	/^class develop(namespaces.DevelopInstaller, easy_install):$/;"	kind:class	line:16
 develop.py	../venv\Lib\site-packages\setuptools\command\develop.py	1;"	kind:file	line:1
@@ -15601,6 +15656,8 @@ dispatch_hook	../venv\Lib\site-packages\pip\_vendor\requests\sessions.py	/^from 
 dispatch_list	../venv\Lib\site-packages\mccabe.py	/^    def dispatch_list(self, node_list):$/;"	kind:member	line:109
 dispatch_table	../venv\Lib\copy.py	/^from copyreg import dispatch_table$/;"	kind:namespace	line:53
 dispatch_table	../venv\Lib\copyreg.py	/^dispatch_table = {}$/;"	kind:variable	line:10
+displayInventory	../05_practice_add_to_inventory.py	/^def displayInventory(inventory):$/;"	kind:function	line:7
+displayInventory	../05_practice_inventory.py	/^def displayInventory(inventory):$/;"	kind:function	line:6
 display_messages	../venv\Lib\site-packages\pylint\reporters\__init__.py	/^    def display_messages(self, layout):$/;"	kind:member	line:88
 display_messages	../venv\Lib\site-packages\pylint\reporters\json.py	/^    def display_messages(self, layout):$/;"	kind:member	line:42
 display_path	../venv\Lib\site-packages\pip\download.py	/^from pip.utils import (splitext, rmtree, format_size, display_path,$/;"	kind:namespace	line:29
@@ -15847,6 +15904,7 @@ download_speed	../venv\Lib\site-packages\pip\utils\ui.py	/^    def download_spee
 download_url	../venv\Lib\site-packages\pip\_vendor\distlib\database.py	/^    download_url = source_url   # Backward compatibility$/;"	kind:variable	line:351
 downloadable_extensions	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^    downloadable_extensions = source_extensions + ('.whl',)$/;"	kind:variable	line:97
 downloaded	../venv\Lib\site-packages\pip\utils\ui.py	/^    def downloaded(self):$/;"	kind:member	line:122
+dragonLoot	../05_practice_add_to_inventory.py	/^dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby', 'ruby']$/;"	kind:variable	line:4
 dry_run	../venv\Lib\site-packages\pip\_vendor\distlib\scripts.py	/^    def dry_run(self):$/;"	kind:member	line:331
 dry_run	../venv\Lib\site-packages\pip\_vendor\distlib\scripts.py	/^    def dry_run(self, value):$/;"	kind:member	line:335
 dsa_test	../venv\Lib\site-packages\wheel\signatures\djbec.py	/^def dsa_test():$/;"	kind:function	line:258
@@ -16631,6 +16689,7 @@ exceptions.py	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\ex
 exceptions.py	../venv\Lib\site-packages\pip\exceptions.py	1;"	kind:file	line:1
 exceptions.py	../venv\Lib\site-packages\pylint\checkers\exceptions.py	1;"	kind:file	line:1
 exceptions.py	../venv\Lib\site-packages\pylint\exceptions.py	1;"	kind:file	line:1
+exceptions.py	../venv\Lib\site-packages\pyperclip\exceptions.py	1;"	kind:file	line:1
 exclude	../venv\Lib\site-packages\setuptools\command\egg_info.py	/^    def exclude(self, pattern):$/;"	kind:member	line:409
 exclude	../venv\Lib\site-packages\setuptools\dist.py	/^    def exclude(self, **attrs):$/;"	kind:member	line:707
 exclude_data_files	../venv\Lib\site-packages\setuptools\command\build_py.py	/^    def exclude_data_files(self, package, src_dir, files):$/;"	kind:member	line:196
@@ -17904,6 +17963,7 @@ get_entry_map	../venv\Lib\site-packages\pkg_resources\__init__.py	/^def get_entr
 get_entrypoints	../venv\Lib\site-packages\pip\wheel.py	/^def get_entrypoints(filename):$/;"	kind:function	line:212
 get_environ_proxies	../venv\Lib\site-packages\pip\_vendor\requests\utils.py	/^def get_environ_proxies(url):$/;"	kind:function	line:599
 get_environ_vars	../venv\Lib\site-packages\pip\baseparser.py	/^    def get_environ_vars(self):$/;"	kind:member	line:270
+get_errno	../venv\Lib\site-packages\pyperclip\windows.py	/^from ctypes import c_size_t, sizeof, c_wchar_p, get_errno, c_wchar$/;"	kind:namespace	line:7
 get_errors	../venv\Lib\site-packages\pip\_vendor\distlib\locators.py	/^    def get_errors(self):$/;"	kind:member	line:118
 get_exclusions	../venv\Lib\site-packages\setuptools\command\install_lib.py	/^    def get_exclusions(self):$/;"	kind:member	line:17
 get_exe_prefixes	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^def get_exe_prefixes(exe_filename):$/;"	kind:function	line:1501
@@ -18595,6 +18655,8 @@ groups	../venv\Lib\sre_parse.py	/^    def groups(self):$/;"	kind:member	line:82
 grp	../venv\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py	/^    import grp, pwd$/;"	kind:namespace	line:54
 grp	../venv\Lib\tarfile.py	/^    import grp, pwd$/;"	kind:namespace	line:53
 gt	../venv\Lib\operator.py	/^def gt(a, b):$/;"	kind:function	line:47
+gtk	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import gtk  # check if gtk is installed$/;"	kind:namespace	line:63
+gtk	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    import gtk$/;"	kind:namespace	line:28
 guess	../03_game_guess_the_number.py	/^    guess = int(input())$/;"	kind:variable	line:9
 guess_content_type	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py	/^def guess_content_type(filename, default='application\/octet-stream'):$/;"	kind:function	line:8
 guess_filename	../venv\Lib\site-packages\pip\_vendor\requests\utils.py	/^def guess_filename(obj):$/;"	kind:function	line:146
@@ -18916,6 +18978,8 @@ identity	../venv\Lib\site-packages\lazy_object_proxy\slots.py	/^from .utils impo
 identity	../venv\Lib\site-packages\lazy_object_proxy\utils.py	/^def identity(obj):$/;"	kind:function	line:1
 idna.py	../venv\Lib\encodings\idna.py	1;"	kind:file	line:1
 ids	../venv\Lib\site-packages\pylint\test\functional\string_formatting.py	/^    ids = [1, 2, 3, [4, 5, 6]]$/;"	kind:variable	line:17
+if	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import PyQt4  # check if PyQt4 is installed$/;"	kind:namespace	line:70
+if	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import gtk  # check if gtk is installed$/;"	kind:namespace	line:63
 if_branch_test	../venv\Lib\site-packages\pylint\test\functional\undefined_variable.py	/^def if_branch_test(something):$/;"	kind:function	line:57
 if_dl	../venv\Lib\site-packages\setuptools\command\build_ext.py	/^if_dl = lambda s: s if have_rtld else ''$/;"	kind:variable	line:59
 ifloordiv	../venv\Lib\operator.py	/^def ifloordiv(a, b):$/;"	kind:function	line:355
@@ -19247,14 +19311,24 @@ init_file	../venv\Lib\site-packages\pep8.py	/^    def init_file(self, filename, 
 init_file	../venv\Lib\site-packages\pep8.py	/^    def init_file(self, filename, lines, expected, line_offset):$/;"	kind:member	line:1728
 init_file	../venv\Lib\site-packages\pycodestyle.py	/^    def init_file(self, filename, lines, expected, line_offset):$/;"	kind:member	line:1811
 init_file	../venv\Lib\site-packages\pycodestyle.py	/^    def init_file(self, filename, lines, expected, line_offset):$/;"	kind:member	line:1896
+init_gtk_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_gtk_clipboard():$/;"	kind:function	line:27
 init_is_generator.py	../venv\Lib\site-packages\pylint\test\functional\init_is_generator.py	1;"	kind:file	line:1
+init_klipper_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_klipper_clipboard():$/;"	kind:function	line:94
 init_linter	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^def init_linter(linter):$/;"	kind:function	line:214
+init_no_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_no_clipboard():$/;"	kind:function	line:122
 init_not_called.py	../venv\Lib\site-packages\pylint\test\functional\init_not_called.py	1;"	kind:file	line:1
+init_osx_clipboard	../venv\Lib\site-packages\pyperclip\__init__.py	/^from .clipboards import (init_osx_clipboard,$/;"	kind:namespace	line:31
+init_osx_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_osx_clipboard():$/;"	kind:function	line:12
 init_per_thread_state	../venv\Lib\site-packages\pip\_vendor\requests\auth.py	/^    def init_per_thread_state(self):$/;"	kind:member	line:82
 init_poolmanager	../venv\Lib\site-packages\pip\_vendor\requests\adapters.py	/^    def init_poolmanager(self, connections, maxsize, block=DEFAULT_POOLBLOCK, **pool_kwargs):$/;"	kind:member	line:141
+init_qt_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_qt_clipboard():$/;"	kind:function	line:47
 init_report	../venv\Lib\site-packages\pep8.py	/^    def init_report(self, reporter=None):$/;"	kind:member	line:1825
 init_report	../venv\Lib\site-packages\pycodestyle.py	/^    def init_report(self, reporter=None):$/;"	kind:member	line:1993
 init_subclass_classmethod_py36.py	../venv\Lib\site-packages\pylint\test\functional\init_subclass_classmethod_py36.py	1;"	kind:file	line:1
+init_windows_clipboard	../venv\Lib\site-packages\pyperclip\__init__.py	/^from .windows import init_windows_clipboard$/;"	kind:namespace	line:35
+init_windows_clipboard	../venv\Lib\site-packages\pyperclip\windows.py	/^def init_windows_clipboard():$/;"	kind:function	line:25
+init_xclip_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_xclip_clipboard():$/;"	kind:function	line:64
+init_xsel_clipboard	../venv\Lib\site-packages\pyperclip\clipboards.py	/^def init_xsel_clipboard():$/;"	kind:function	line:79
 initialise.py	../venv\Lib\site-packages\colorama\initialise.py	1;"	kind:file	line:1
 initialise.py	../venv\Lib\site-packages\pip\_vendor\colorama\initialise.py	1;"	kind:file	line:1
 initialize	../venv\Lib\site-packages\pylint\checkers\__init__.py	/^def initialize(linter):$/;"	kind:function	line:112
@@ -19397,6 +19471,8 @@ install_warning_logger	../venv\Lib\site-packages\pip\utils\deprecation.py	/^def 
 install_wrapper_scripts	../venv\Lib\site-packages\setuptools\command\develop.py	/^    def install_wrapper_scripts(self, dist):$/;"	kind:member	line:188
 install_wrapper_scripts	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^    def install_wrapper_scripts(self, dist):$/;"	kind:member	line:790
 installation_report	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^    def installation_report(self, req, dist, what="Installed"):$/;"	kind:member	line:1058
+installed	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import PyQt4  # check if PyQt4 is installed$/;"	kind:namespace	line:70
+installed	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import gtk  # check if gtk is installed$/;"	kind:namespace	line:63
 installed_version	../venv\Lib\site-packages\pip\req\req_install.py	/^    def installed_version(self):$/;"	kind:member	line:545
 installer	../venv\Lib\site-packages\pip\wheel.py	/^    installer = os.path.join(info_dir[0], 'INSTALLER')$/;"	kind:variable	line:503
 instance	../venv\Lib\site-packages\pylint\test\functional\bugfix_local_scope_metaclass_1177.py	/^    instance = Class3()$/;"	kind:variable	line:30
@@ -19451,6 +19527,7 @@ interrupt_main	../venv\Lib\_dummy_thread.py	/^def interrupt_main():$/;"	kind:fun
 intersection	../venv\Lib\_weakrefset.py	/^    def intersection(self, other):$/;"	kind:member	line:143
 intersection_update	../venv\Lib\_weakrefset.py	/^    def intersection_update(self, other):$/;"	kind:member	line:147
 introduced	../venv\Lib\site-packages\pylint\graph.py	/^        import subprocess # introduced in py 2.4$/;"	kind:namespace	line:70
+inv	../05_practice_add_to_inventory.py	/^inv = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}$/;"	kind:variable	line:3
 inv	../venv\Lib\operator.py	/^def inv(a):$/;"	kind:function	line:91
 inv	../venv\Lib\site-packages\wheel\signatures\djbec.py	/^def inv(x):$/;"	kind:function	line:46
 invalid_all_object.py	../venv\Lib\site-packages\pylint\test\functional\invalid_all_object.py	1;"	kind:file	line:1
@@ -19531,6 +19608,8 @@ ipv6_address	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^    
 irshift	../venv\Lib\operator.py	/^def irshift(a, b):$/;"	kind:function	line:390
 is	../venv\Lib\distutils\__init__.py	/^import opcode # opcode is not a virtualenv module, so we can use it to find the stdlib$/;"	kind:namespace	line:5
 is	../venv\Lib\site-packages\astroid\manager.py	/^        if zipimport is None:$/;"	kind:namespace	line:166
+is	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import PyQt4  # check if PyQt4 is installed$/;"	kind:namespace	line:70
+is	../venv\Lib\site-packages\pyperclip\__init__.py	/^            import gtk  # check if gtk is installed$/;"	kind:namespace	line:63
 isHTMLIntegrationPoint	../venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py	/^    def isHTMLIntegrationPoint(self, element):$/;"	kind:member	line:139
 isMatchingFormattingElement	../venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py	/^        def isMatchingFormattingElement(self, node1, node2):$/;"	kind:member	line:943
 isMathMLTextIntegrationPoint	../venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py	/^    def isMathMLTextIntegrationPoint(self, element):$/;"	kind:member	line:149
@@ -20296,6 +20375,7 @@ lineno	../venv\Lib\site-packages\astroid\node_classes.py	/^    lineno = None$/;"
 lineno	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^    lineno = 0$/;"	kind:variable	line:231
 lineno	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^def lineno(loc,strg):$/;"	kind:function	line:958
 lineno	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^def lineno(loc,strg):$/;"	kind:function	line:958
+lines	../06_project_bullet_point_adder.py	/^lines = text.split('\\n')$/;"	kind:variable	line:9
 linesep	../venv\Lib\os.py	/^    linesep = '\\r\\n'$/;"	kind:variable	line:70
 linesep	../venv\Lib\site-packages\pylint\testutils.py	/^from os import linesep, getcwd, sep$/;"	kind:namespace	line:16
 lineterminator	../venv\Lib\site-packages\pylint\test\test_functional.py	/^        lineterminator = '\\n'$/;"	kind:variable	line:33
@@ -22278,6 +22358,7 @@ os	../venv\Lib\site-packages\pylint\test\unittest_pyreverse_inspector.py	/^impor
 os	../venv\Lib\site-packages\pylint\test\unittest_pyreverse_writer.py	/^import os$/;"	kind:namespace	line:12
 os	../venv\Lib\site-packages\pylint\testutils.py	/^import os$/;"	kind:namespace	line:15
 os	../venv\Lib\site-packages\pylint\utils.py	/^import os$/;"	kind:namespace	line:20
+os	../venv\Lib\site-packages\pyperclip\__init__.py	/^import os$/;"	kind:namespace	line:29
 os	../venv\Lib\site-packages\setuptools\__init__.py	/^import os$/;"	kind:namespace	line:3
 os	../venv\Lib\site-packages\setuptools\archive_util.py	/^import os$/;"	kind:namespace	line:5
 os	../venv\Lib\site-packages\setuptools\command\bdist_egg.py	/^import os$/;"	kind:namespace	line:10
@@ -22636,7 +22717,15 @@ partition	../venv\Lib\collections\__init__.py	/^    def partition(self, sep):$/;
 passing_keyword_only_with_modifications	../venv\Lib\site-packages\pylint\test\functional\useless_super_delegation_py3.py	/^    def passing_keyword_only_with_modifications(self, first, *, second):$/;"	kind:member	line:9
 passing_only_a_handful	../venv\Lib\site-packages\pylint\test\functional\useless_super_delegation.py	/^    def passing_only_a_handful(self, first, second, third, fourth):$/;"	kind:member	line:65
 password	../02_continue_swordfish.py	/^    password = input()$/;"	kind:variable	line:7
+password	../06_validate_input.py	/^    password = input()$/;"	kind:variable	line:10
 passwordFile	../00_introduction.py	/^passwordFile = open('SecretPasswordFile.txt')$/;"	kind:variable	line:1
+paste_gtk	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_gtk():$/;"	kind:function	line:36
+paste_klipper	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_klipper():$/;"	kind:function	line:102
+paste_osx	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_osx():$/;"	kind:function	line:18
+paste_qt	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_qt():$/;"	kind:function	line:57
+paste_windows	../venv\Lib\site-packages\pyperclip\windows.py	/^    def paste_windows():$/;"	kind:function	line:140
+paste_xclip	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_xclip():$/;"	kind:function	line:70
+paste_xsel	../venv\Lib\site-packages\pyperclip\clipboards.py	/^    def paste_xsel():$/;"	kind:function	line:85
 patch	../venv\Lib\site-packages\pip\_vendor\requests\__init__.py	/^from .api import request, get, head, post, patch, put, delete, options$/;"	kind:namespace	line:67
 patch	../venv\Lib\site-packages\pip\_vendor\requests\api.py	/^def patch(url, data=None, **kwargs):$/;"	kind:function	line:126
 patch	../venv\Lib\site-packages\pip\_vendor\requests\sessions.py	/^    def patch(self, url, data=None, **kwargs):$/;"	kind:member	line:535
@@ -22741,6 +22830,7 @@ pickle	../venv\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py	/^from .c
 pickle	../venv\Lib\site-packages\pylint\config.py	/^import pickle$/;"	kind:namespace	line:28
 pickle	../venv\Lib\site-packages\setuptools\sandbox.py	/^import pickle$/;"	kind:namespace	line:9
 pickle_complex	../venv\Lib\copyreg.py	/^    def pickle_complex(c):$/;"	kind:function	line:34
+picnicItems	../06_picnic_table.py	/^picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}$/;"	kind:variable	line:11
 pidlockfile.py	../venv\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py	1;"	kind:file	line:1
 pie_slice.py	../venv\Lib\site-packages\isort\pie_slice.py	1;"	kind:file	line:1
 pip	../venv\Lib\site-packages\pip\__init__.py	/^import pip.cmdoptions$/;"	kind:namespace	line:42
@@ -22809,6 +22899,7 @@ platform	../venv\Lib\site-packages\pylint\test\functional\deprecated_methods_py3
 platform	../venv\Lib\site-packages\pylint\test\functional\unpacking_non_sequence.py	/^import platform$/;"	kind:namespace	line:122
 platform	../venv\Lib\site-packages\pylint\test\input\func_w0612.py	/^    from sys import platform$/;"	kind:namespace	line:34
 platform	../venv\Lib\site-packages\pylint\test\test_functional.py	/^import platform$/;"	kind:namespace	line:15
+platform	../venv\Lib\site-packages\pyperclip\__init__.py	/^import platform$/;"	kind:namespace	line:28
 platform	../venv\Lib\site-packages\setuptools\command\install.py	/^import platform$/;"	kind:namespace	line:5
 platform	../venv\Lib\site-packages\setuptools\monkey.py	/^import platform$/;"	kind:namespace	line:7
 platform	../venv\Lib\site-packages\setuptools\msvc.py	/^import platform$/;"	kind:namespace	line:22
@@ -23044,6 +23135,7 @@ previous_sibling	../venv\Lib\site-packages\astroid\scoped_nodes.py	/^    def pre
 prf	../venv\Lib\hashlib.py	/^        def prf(msg, inner=inner, outer=outer):$/;"	kind:function	line:200
 print	../venv\Lib\site-packages\pylint\test\functional\defined_and_used_on_same_line.py	/^import sys; print(sys.exc_info())$/;"	kind:namespace	line:16
 printBoard	../05_dictionaries_tic_tac_toe.py	/^def printBoard(board):$/;"	kind:function	line:7
+printPicnic	../06_picnic_table.py	/^def printPicnic(itemDict, leftWidth, rightWidth):$/;"	kind:function	line:5
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    def print_(*args, **kwargs):$/;"	kind:function	line:723
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^    def print_(*args, **kwargs):$/;"	kind:function	line:779
 print_	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py	/^print_ = getattr(moves.builtins, "print", None)$/;"	kind:variable	line:721
@@ -23541,6 +23633,8 @@ pyparsing.py	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	1;"	kind:file	li
 pyparsing.py	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	1;"	kind:file	line:1
 pyparsing_common	../venv\Lib\site-packages\pip\_vendor\pyparsing.py	/^class pyparsing_common:$/;"	kind:class	line:5353
 pyparsing_common	../venv\Lib\site-packages\pkg_resources\_vendor\pyparsing.py	/^class pyparsing_common:$/;"	kind:class	line:5353
+pyperclip	../06_project_bullet_point_adder.py	/^import pyperclip$/;"	kind:namespace	line:4
+pyperclip	../06_project_pw.py	/^import pyperclip$/;"	kind:namespace	line:8
 pyqt4_qtcore_transform	../venv\Lib\site-packages\astroid\brain\brain_qt.py	/^def pyqt4_qtcore_transform():$/;"	kind:function	line:41
 pytest	../venv\Lib\site-packages\astroid\tests\unittest_brain.py	/^    import pytest$/;"	kind:namespace	line:49
 pytest	../venv\Lib\site-packages\pylint\test\conftest.py	/^import pytest$/;"	kind:namespace	line:3
@@ -24847,6 +24941,7 @@ set_attrs	../venv\Lib\site-packages\colorama\winterm.py	/^    def set_attrs(self
 set_attrs	../venv\Lib\site-packages\pip\_vendor\colorama\winterm.py	/^    def set_attrs(self, value):$/;"	kind:member	line:39
 set_cert	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py	/^    def set_cert(self, key_file=None, cert_file=None,$/;"	kind:member	line:236
 set_ciphers	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py	/^        def set_ciphers(self, cipher_suite):$/;"	kind:member	line:105
+set_clipboard	../venv\Lib\site-packages\pyperclip\__init__.py	/^def set_clipboard(clipboard):$/;"	kind:function	line:86
 set_config	../venv\Lib\site-packages\pylint\test\extensions\test_check_docs.py	/^from pylint.testutils import CheckerTestCase, Message, set_config$/;"	kind:namespace	line:19
 set_config	../venv\Lib\site-packages\pylint\test\extensions\test_check_raise_docs.py	/^from pylint.testutils import CheckerTestCase, Message, set_config$/;"	kind:namespace	line:14
 set_config	../venv\Lib\site-packages\pylint\test\extensions\test_check_return_docs.py	/^from pylint.testutils import CheckerTestCase, Message, set_config$/;"	kind:namespace	line:16
@@ -25237,6 +25332,7 @@ size	../venv\Lib\site-packages\autopep8.py	/^    def size(self):$/;"	kind:member
 size	../venv\Lib\site-packages\autopep8.py	/^    def size(self):$/;"	kind:member	line:2252
 size	../venv\Lib\site-packages\pip\_vendor\distlib\resources.py	/^    def size(self):$/;"	kind:member	line:107
 sizeSpec	../venv\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py	/^        constraint.ValueSizeConstraint(1, 1024)$/;"	kind:variable	line:134
+sizeof	../venv\Lib\site-packages\pyperclip\windows.py	/^from ctypes import c_size_t, sizeof, c_wchar_p, get_errno, c_wchar$/;"	kind:namespace	line:7
 sjisprober.py	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py	1;"	kind:file	line:1
 skimmer	../venv\Lib\site-packages\setuptools\command\install_egg_info.py	/^        def skimmer(src, dst):$/;"	kind:function	line:51
 skip	../venv\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py	/^    def skip(self, chars=spaceCharactersBytes):$/;"	kind:member	line:640
@@ -25756,6 +25852,7 @@ struct	../venv\Lib\tarfile.py	/^import struct$/;"	kind:namespace	line:48
 struct.py	../venv\Lib\struct.py	1;"	kind:file	line:1
 structures.py	../venv\Lib\site-packages\pip\_vendor\requests\structures.py	1;"	kind:file	line:1
 strxfrm	../venv\Lib\locale.py	/^    strxfrm = _strxfrm$/;"	kind:variable	line:97
+stuff	../05_practice_inventory.py	/^stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}$/;"	kind:variable	line:3
 stuff	../venv\Lib\site-packages\pylint\test\functional\membership_protocol.py	/^    stuff = None$/;"	kind:variable	line:64
 stuff	../venv\Lib\site-packages\pylint\test\functional\nonlocal_without_binding.py	/^        def stuff():$/;"	kind:function	line:14
 stuff	../venv\Lib\site-packages\pylint\test\functional\nonlocal_without_binding.py	/^        def stuff():$/;"	kind:function	line:8
@@ -25789,6 +25886,8 @@ subprocess	../venv\Lib\site-packages\pip\utils\__init__.py	/^import subprocess$/
 subprocess	../venv\Lib\site-packages\pylint\graph.py	/^        import subprocess # introduced in py 2.4$/;"	kind:namespace	line:70
 subprocess	../venv\Lib\site-packages\pylint\pyreverse\main.py	/^import subprocess$/;"	kind:namespace	line:15
 subprocess	../venv\Lib\site-packages\pylint\test\functional\super_checks.py	/^import subprocess$/;"	kind:namespace	line:103
+subprocess	../venv\Lib\site-packages\pyperclip\__init__.py	/^import subprocess$/;"	kind:namespace	line:30
+subprocess	../venv\Lib\site-packages\pyperclip\clipboards.py	/^import subprocess$/;"	kind:namespace	line:2
 subprocess	../venv\Lib\site-packages\setuptools\command\easy_install.py	/^import subprocess$/;"	kind:namespace	line:39
 subprocess	../venv\Lib\site-packages\wheel\bdist_wheel.py	/^import subprocess$/;"	kind:namespace	line:10
 subprocess	../venv\Lib\site-packages\wheel\test\test_tagopt.py	/^import subprocess$/;"	kind:namespace	line:11
@@ -25881,6 +25980,7 @@ syntax_error.py	../venv\Lib\site-packages\pylint\test\regrtest_data\syntax_error
 syntax_error_jython.py	../venv\Lib\site-packages\pylint\test\functional\syntax_error_jython.py	1;"	kind:file	line:1
 sys	../02_exit_example.py	/^import sys$/;"	kind:namespace	line:7
 sys	../02_import_print_random.py	/^import random  # import random, sys, os, math$/;"	kind:namespace	line:6
+sys	../06_project_pw.py	/^import sys$/;"	kind:namespace	line:7
 sys	../venv\Lib\_bootlocale.py	/^import sys$/;"	kind:namespace	line:7
 sys	../venv\Lib\_collections_abc.py	/^import sys$/;"	kind:namespace	line:10
 sys	../venv\Lib\base64.py	/^    import sys, getopt$/;"	kind:namespace	line:565
@@ -26083,6 +26183,7 @@ sys	../venv\Lib\site-packages\pylint\test\unittest_checker_variables.py	/^import
 sys	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^import sys$/;"	kind:namespace	line:11
 sys	../venv\Lib\site-packages\pylint\testutils.py	/^import sys$/;"	kind:namespace	line:18
 sys	../venv\Lib\site-packages\pylint\utils.py	/^import sys$/;"	kind:namespace	line:23
+sys	../venv\Lib\site-packages\pyperclip\clipboards.py	/^import sys$/;"	kind:namespace	line:1
 sys	../venv\Lib\site-packages\setuptools\command\__init__.py	/^import sys$/;"	kind:namespace	line:9
 sys	../venv\Lib\site-packages\setuptools\command\bdist_egg.py	/^import sys$/;"	kind:namespace	line:9
 sys	../venv\Lib\site-packages\setuptools\command\build_ext.py	/^import sys$/;"	kind:namespace	line:2
@@ -27732,6 +27833,8 @@ testutils	../venv\Lib\site-packages\pylint\test\test_regr.py	/^import pylint.tes
 testutils	../venv\Lib\site-packages\pylint\test\unittest_checker_python3.py	/^from pylint import testutils$/;"	kind:namespace	line:17
 testutils	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^import pylint.testutils as testutils$/;"	kind:namespace	line:27
 testutils.py	../venv\Lib\site-packages\pylint\testutils.py	1;"	kind:file	line:1
+text	../06_project_bullet_point_adder.py	/^text = '\\n'.join(lines)$/;"	kind:variable	line:13
+text	../06_project_bullet_point_adder.py	/^text = pyperclip.paste()$/;"	kind:variable	line:6
 text	../venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py	/^    def text(self, data):$/;"	kind:member	line:48
 text	../venv\Lib\site-packages\pip\_vendor\requests\models.py	/^    def text(self):$/;"	kind:member	line:766
 text	../venv\Lib\site-packages\pylint\test\unittest_lint.py	/^from pylint.reporters import text$/;"	kind:namespace	line:28
@@ -27761,6 +27864,7 @@ text_type	../venv\Lib\site-packages\pip\compat\__init__.py	/^from pip._vendor.si
 text_type	../venv\Lib\site-packages\pip\utils\appdirs.py	/^from pip._vendor.six import PY2, text_type$/;"	kind:namespace	line:11
 text_type	../venv\Lib\site-packages\pkg_resources\_vendor\six.py	/^    text_type = str$/;"	kind:variable	line:44
 text_type	../venv\Lib\site-packages\pkg_resources\_vendor\six.py	/^    text_type = unicode$/;"	kind:variable	line:52
+text_type	../venv\Lib\site-packages\pyperclip\clipboards.py	/^text_type = unicode if PY2 else str$/;"	kind:variable	line:9
 text_type	../venv\Lib\site-packages\six.py	/^    text_type = str$/;"	kind:variable	line:44
 text_type	../venv\Lib\site-packages\six.py	/^    text_type = unicode$/;"	kind:variable	line:52
 text_writer.py	../venv\Lib\site-packages\pylint\reporters\ureports\text_writer.py	1;"	kind:file	line:1
@@ -27848,6 +27952,7 @@ time	../venv\Lib\site-packages\pycodestyle.py	/^import time$/;"	kind:namespace	l
 time	../venv\Lib\site-packages\pylint\config.py	/^import time$/;"	kind:namespace	line:31
 time	../venv\Lib\site-packages\pylint\test\functional\invalid_name.py	/^    import time$/;"	kind:namespace	line:12
 time	../venv\Lib\site-packages\pylint\test\functional\invalid_name.py	/^    time = None # [invalid-name]$/;"	kind:variable	line:14
+time	../venv\Lib\site-packages\pyperclip\windows.py	/^import time$/;"	kind:namespace	line:4
 time	../venv\Lib\site-packages\setuptools\command\egg_info.py	/^import time$/;"	kind:namespace	line:16
 time	../venv\Lib\site-packages\wheel\archive.py	/^import time$/;"	kind:namespace	line:6
 time	../venv\Lib\tarfile.py	/^import time$/;"	kind:namespace	line:47
@@ -29565,7 +29670,9 @@ windll	../venv\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py	/^from .win
 windll	../venv\Lib\site-packages\pip\_vendor\colorama\win32.py	/^    windll = LibraryLoader(ctypes.WinDLL)$/;"	kind:variable	line:10
 windll	../venv\Lib\site-packages\pip\_vendor\colorama\win32.py	/^    windll = None$/;"	kind:variable	line:13
 windll	../venv\Lib\site-packages\pkg_resources\_vendor\appdirs.py	/^            from ctypes import windll$/;"	kind:namespace	line:514
+window	../venv\Lib\site-packages\pyperclip\windows.py	/^    def window():$/;"	kind:function	line:76
 windows	../venv\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py	/^from .latin1prober import Latin1Prober  # windows-1252$/;"	kind:namespace	line:32
+windows.py	../venv\Lib\site-packages\pyperclip\windows.py	1;"	kind:file	line:1
 windows_kits_roots	../venv\Lib\site-packages\setuptools\msvc.py	/^    def windows_kits_roots(self):$/;"	kind:member	line:397
 windows_locale	../venv\Lib\locale.py	/^windows_locale = {$/;"	kind:variable	line:1399
 windows_only	../venv\Lib\site-packages\setuptools\windows_support.py	/^def windows_only(func):$/;"	kind:function	line:5
